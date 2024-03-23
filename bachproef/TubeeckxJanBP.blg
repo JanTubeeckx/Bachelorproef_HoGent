@@ -1,0 +1,5 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'FamilienaamVoornaamBP.blg'
+[51] biber-darwin:340> INFO - === Sat Mar 23, 2024, 20:04:21
+[62] Utils.pm:410> ERROR - FamilienaamVoornaamBP.bcf is malformed, last biblatex run probably failed. Deleted FamilienaamVoornaamBP.bbl
+[62] Biber.pm:136> INFO - ERRORS: 1
