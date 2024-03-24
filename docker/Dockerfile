@@ -12,5 +12,4 @@ RUN brew install -y \
     latexmk \
     install pygments \
     rm -rf /var/lib/apt/lists/*
-COPY fonts/ /usr/share/fonts/opentype
 RUN fc-cache -f -v
