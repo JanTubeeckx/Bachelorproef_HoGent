@@ -10,6 +10,6 @@ RUN brew install \
     texlive-xetex \
     python3-pip \
     latexmk \
-    install pygments \
+    pygments \
     rm -rf /var/lib/apt/lists/*
 RUN fc-cache -f -v
