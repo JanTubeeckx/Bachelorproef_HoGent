@@ -1,6 +1,6 @@
 FROM debian:bullseye
 
-RUN apt-get update && apt-get install -y \
+RUN brew install -y \
     texlive-latex-base \
     texlive-latex-extra \
     texlive-lang-european \
@@ -10,7 +10,7 @@ RUN apt-get update && apt-get install -y \
     texlive-xetex \
     python3-pip \
     latexmk \
-    && pip install pygments \
-    && rm -rf /var/lib/apt/lists/*
+    install pygments \
+    rm -rf /var/lib/apt/lists/*
 COPY fonts/ /usr/share/fonts/opentype
 RUN fc-cache -f -v
