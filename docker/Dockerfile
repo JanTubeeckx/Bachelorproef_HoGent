@@ -1,6 +1,6 @@
 FROM debian:bullseye
 
-RUN brew install -y \
+RUN brew install \
     texlive-latex-base \
     texlive-latex-extra \
     texlive-lang-european \
