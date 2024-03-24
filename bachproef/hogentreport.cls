@@ -338,8 +338,8 @@
         not running XeLaTeX/LuaLaTeX: using native fonts}
 
     \RequirePackage[defaultfam,tabular,lining]{montserrat}
-    \RequirePackage{firamath}
-    \RequirePackage{sfmath} % Fallback sans serif math font
+% \RequirePackage{firamath}
+% \RequirePackage{sfmath} % Fallback sans serif math font
 
     \RequirePackage[T1]{fontenc}
     \renewcommand*\oldstylenums[1]{{\fontfamily{Montserrat-TOsF}\selectfont #1}}
@@ -438,7 +438,7 @@
 
 %% Use the length of the 'HO' part of the logo to set the padding of the logo
 \newsavebox{\logopart}
-\savebox{\logopart}{\includegraphics[height=2cm]{logopart}}
+\savebox{\logopart}{\includegraphics[height=2cm]{logopart.eps}}
 
 %% We use A4 paper with slightly smaller margins than the default (scale = 0.7)
 \geometry{a4paper,hscale=0.75,vscale=0.8,headheight=14pt,asymmetric}
@@ -533,7 +533,7 @@
     \begin{tikzpicture}[remember picture, overlay]
       \node [anchor=south east, shift={(-\the\wd\logopart, \the\wd\logopart)}, inner sep=0, outer sep=0] (logo) at (current page.south east)%
       {%
-        \includegraphics[height=\the\ht\logopart]{hogent_logo}%
+        \includegraphics[height=\the\ht\logopart]{hogent_logo.eps}%
       };%
     \end{tikzpicture}
 
