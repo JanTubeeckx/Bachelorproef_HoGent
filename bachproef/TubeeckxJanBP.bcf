@@ -3066,9 +3066,12 @@
     <bcf:citekey order="8" intorder="1">Verdoodt2022</bcf:citekey>
     <bcf:citekey order="9" intorder="1">Verdoodt2022</bcf:citekey>
     <bcf:citekey order="10" intorder="1">Verdoodt2022</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">Pollefliet2011</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">Knuth1998</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">Creeger2009</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Wemyss2019</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">VREG2021</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Selleslagh2022</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">Pollefliet2011</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Knuth1998</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">Creeger2009</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.24)  24 MAR 2024 20:59
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.24)  1 APR 2024 18:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2062,9 +2062,9 @@ LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
 (Font)              scaled to size 6.35031pt on input line 3.
 
-Overfull \hbox (29.30727pt too wide) in paragraph at lines 6--6
- [][] [][][]\TU/Montserrat(1)/m/n/10.95 Verwachte evolutie voor de elektrificat
-ie zwaar vrachtvervoer ([]).[][] [][]  
+Overfull \hbox (12.83116pt too wide) in paragraph at lines 6--6
+ [][] [][][]\TU/Montserrat(1)/m/n/10.95 Verwachte evolutie van de elektrificati
+e van zwaar vrachtvervoer in Vlaan- 
  []
 
 )
@@ -2079,69 +2079,101 @@ Hoofdstuk 1.
 LaTeX Warning: Citation 'Pollefliet2011' on page 1 undefined on input line 8.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
+LaTeX Warning: Citation 'Verdoodt2022' on page 1 undefined on input line 25.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
+File: ../graphics/Elektrificatie_personenvoertuigen.png Graphic file (type bmp)
 
-LaTeX Warning: Citation 'Verdoodt2022' on page 1 undefined on input line 25.
+<../graphics/Elektrificatie_personenvoertuigen.png>
 
-[1
+LaTeX Warning: Citation 'Verdoodt2022' on page 1 undefined on input line 30.
 
+File: ../graphics/Evolutie_Warmtepomp.png Graphic file (type bmp)
+<../graphics/Evolutie_Warmtepomp.png>
 
-]
-File: ../graphics/Aantal_el_personenvoertuigen.png Graphic file (type bmp)
-<../graphics/Aantal_el_personenvoertuigen.png>
-
-
-LaTeX Warning: Citation 'Verdoodt2022' on page 2 undefined on input line 30.
-
-File: ../graphics/Evolutie_Warmtepompen.png Graphic file (type bmp)
-<../graphics/Evolutie_Warmtepompen.png>
-
-LaTeX Warning: Citation 'Verdoodt2022' on page 2 undefined on input line 36.
+LaTeX Warning: Citation 'Verdoodt2022' on page 1 undefined on input line 36.
 
 File: ../graphics/Evolutie_PV.png Graphic file (type bmp)
 <../graphics/Evolutie_PV.png>
 
-LaTeX Warning: Citation 'Verdoodt2022' on page 2 undefined on input line 41.
+LaTeX Warning: Citation 'Verdoodt2022' on page 1 undefined on input line 41.
 
-File: ../graphics/El_Vrachtvervoer.png Graphic file (type bmp)
-<../graphics/El_Vrachtvervoer.png>
+File: ../graphics/Elektrificatie_Vrachtvervoer.png Graphic file (type bmp)
+<../graphics/Elektrificatie_Vrachtvervoer.png>
 
-LaTeX Warning: Citation 'Verdoodt2022' on page 2 undefined on input line 47.
+LaTeX Warning: Citation 'Verdoodt2022' on page 1 undefined on input line 47.
 
-[2] [3]) (./standvanzaken.tex [4]
+
+LaTeX Warning: Citation 'Wemyss2019' on page 1 undefined on input line 50.
+
+
+LaTeX Warning: Citation 'VREG2021' on page 1 undefined on input line 50.
+
+
+LaTeX Warning: Citation '' on page 1 undefined on input line 50.
+
+
+LaTeX Warning: Citation 'Selleslagh2022' on page 1 undefined on input line 50.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+[1
+
+
+] [2] [3]
+Overfull \hbox (3.05157pt too wide) in paragraph at lines 52--53
+\TU/Montserrat(1)/m/n/10.95 hun elektriciteitsverbruik. Kunnen apps die het ele
+ktriciteitsverbuik monitoren slim-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+[4]) (./standvanzaken.tex [5]
 Hoofdstuk 2.
 
-LaTeX Warning: Citation 'Pollefliet2011' on page 5 undefined on input line 10.
+LaTeX Warning: Citation 'Pollefliet2011' on page 6 undefined on input line 10.
 
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FiraCode' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-LaTeX Warning: Citation 'Knuth1998' on page 5 undefined on input line 14.
+LaTeX Warning: Citation 'Knuth1998' on page 6 undefined on input line 14.
 
 
-LaTeX Warning: Citation '' on page 5 undefined on input line 14.
+LaTeX Warning: Citation '' on page 6 undefined on input line 14.
 
 
-LaTeX Warning: Citation 'Creeger2009' on page 5 undefined on input line 14.
+LaTeX Warning: Citation 'Creeger2009' on page 6 undefined on input line 14.
 
-) [5
+) [6
 
-] [6] [7] (./methodologie.tex [8]
+] [7] [8] (./methodologie.tex [9]
 Hoofdstuk 3.
-[9
+[10
 
-]) (./conclusie.tex [10]
+]) (./conclusie.tex [11]
 Hoofdstuk 4.
-[11
+[12
 
-]) [12]
+]) [13]
 B\ij lage A.
-[13
+[14
 
 ] (./TubeeckxJanBP.aux)
  ***********
@@ -2165,11 +2197,11 @@ Package logreq Info: Writing requests to 'TubeeckxJanBP.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  45661 strings out of 474773
- 910953 string characters out of 5757724
- 2028958 words of memory out of 5000000
+ 911238 string characters out of 5757724
+ 2029090 words of memory out of 5000000
  67083 multiletter control sequences out of 15000+600000
  561065 words of font info for 100 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
- 110i,12n,140p,1138b,4015s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,11n,140p,2041b,4015s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on TubeeckxJanBP.pdf (19 pages).
+Output written on TubeeckxJanBP.pdf (20 pages).
