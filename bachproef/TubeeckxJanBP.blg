@@ -1,12 +1,12 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'TubeeckxJanBP.blg'
-[27] biber-darwin:340> INFO - === Mon Apr  1, 2024, 18:05:39
+[27] biber-darwin:340> INFO - === Mon Apr  1, 2024, 20:00:25
 [34] Biber.pm:419> INFO - Reading 'TubeeckxJanBP.bcf'
 [74] Biber.pm:979> INFO - Found 7 citekeys in bib section 0
 [84] Biber.pm:4419> INFO - Processing section 0
 [88] Biber.pm:4610> INFO - Looking for bibtex file 'bachproef.bib' for section 0
-[88] bibtex.pm:1713> INFO - LaTeX decoding ...
-[91] bibtex.pm:1519> INFO - Found BibTeX data source 'bachproef.bib'
-[109] Biber.pm:4610> INFO - Looking for bibtex file '../voorstel/voorstel.bib' for section 0
+[89] bibtex.pm:1713> INFO - LaTeX decoding ...
+[92] bibtex.pm:1519> INFO - Found BibTeX data source 'bachproef.bib'
+[110] Biber.pm:4610> INFO - Looking for bibtex file '../voorstel/voorstel.bib' for section 0
 [186] Utils.pm:410> ERROR - Cannot find '../voorstel/voorstel.bib'!
 [186] Biber.pm:136> INFO - ERRORS: 1
