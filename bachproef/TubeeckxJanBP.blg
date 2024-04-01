@@ -1,19 +1,12 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'TubeeckxJanBP.blg'
-[27] biber-darwin:340> INFO - === Sun Mar 24, 2024, 18:57:06
-[34] Biber.pm:419> INFO - Reading 'TubeeckxJanBP.bcf'
-[74] Biber.pm:979> INFO - Found 3 citekeys in bib section 0
-[84] Biber.pm:4419> INFO - Processing section 0
-[88] Biber.pm:4610> INFO - Looking for bibtex file 'bachproef.bib' for section 0
-[89] bibtex.pm:1713> INFO - LaTeX decoding ...
-[91] bibtex.pm:1519> INFO - Found BibTeX data source 'bachproef.bib'
-[110] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[110] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[110] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
-[110] Biber.pm:4245> INFO - No sort tailoring available for locale 'nl-NL'
-[115] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[115] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[115] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
-[115] Biber.pm:4245> INFO - No sort tailoring available for locale 'nl-NL'
-[116] bbl.pm:660> INFO - Writing 'TubeeckxJanBP.bbl' with encoding 'UTF-8'
-[118] bbl.pm:763> INFO - Output to TubeeckxJanBP.bbl
+[28] biber-darwin:340> INFO - === Sun Mar 24, 2024, 20:59:01
+[35] Biber.pm:419> INFO - Reading 'TubeeckxJanBP.bcf'
+[77] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
+[87] Biber.pm:4419> INFO - Processing section 0
+[92] Biber.pm:4610> INFO - Looking for bibtex file 'bachproef.bib' for section 0
+[92] bibtex.pm:1713> INFO - LaTeX decoding ...
+[94] bibtex.pm:1519> INFO - Found BibTeX data source 'bachproef.bib'
+[109] Biber.pm:4610> INFO - Looking for bibtex file '../voorstel/voorstel.bib' for section 0
+[191] Utils.pm:410> ERROR - Cannot find '../voorstel/voorstel.bib'!
+[191] Biber.pm:136> INFO - ERRORS: 1
