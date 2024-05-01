@@ -1,0 +1,2355 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Ahmad2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=001997575dedcc5f7955eef440d0d6e8}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Muhammad\bibnamedelima Waseem},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec4e762ce4fab2af4ca287fc6d69d453}{%
+           family={Reynolds},
+           familyi={R\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0205e3b60083523cc17f36882d47242}{%
+           family={Rezgui},
+           familyi={R\bibinitperiod},
+           given={Yacine},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5448f7cb8cf0be27c1a59fc39e635d7f}
+      \strng{fullhash}{3b82414a34cf98570e5c0155fa4dde38}
+      \strng{bibnamehash}{3b82414a34cf98570e5c0155fa4dde38}
+      \strng{authorbibnamehash}{3b82414a34cf98570e5c0155fa4dde38}
+      \strng{authornamehash}{5448f7cb8cf0be27c1a59fc39e635d7f}
+      \strng{authorfullhash}{3b82414a34cf98570e5c0155fa4dde38}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{month}{12}
+      \field{title}{Predictive modelling for solar thermal energy systems: A comparison of support vector regression, random forest, extra trees and regression trees}
+      \field{volume}{203}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{810\bibrangedash 821}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jclepro.2018.08.207
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0959652618325551?via=ihub
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0959652618325551?via=ihub
+      \endverb
+    \endentry
+    \entry{Balakumar2023}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0e6b2ce3cba4ab0ee3d3b267f5f6e186}{%
+           family={Balakumar},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ab3ce23d3a63d85f00036427e8bea30}{%
+           family={Vinopraba},
+           familyi={V\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60d626c5202a546e299a71f4c0f70bbb}{%
+           family={Chandrasekaran},
+           familyi={C\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f3c357e41bb3eb11294f103c8ee37796}
+      \strng{fullhash}{95e49ec7a740d7b2e760c25d3c1f42cf}
+      \strng{bibnamehash}{95e49ec7a740d7b2e760c25d3c1f42cf}
+      \strng{authorbibnamehash}{95e49ec7a740d7b2e760c25d3c1f42cf}
+      \strng{authornamehash}{f3c357e41bb3eb11294f103c8ee37796}
+      \strng{authorfullhash}{95e49ec7a740d7b2e760c25d3c1f42cf}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainable Cities and Society}
+      \field{month}{2}
+      \field{title}{Machine learning based demand response scheme for IoT enabled PVintegrated smart building}
+      \field{volume}{89}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.scs.2022.104260
+      \endverb
+      \verb{file}
+      \verb :/Users/jantubeeckx/Documents/TILE/TILE3/Bachelorproef/Bibliografie/1-s2.0-S2210670722005650-main (1).pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2210670722005650
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2210670722005650
+      \endverb
+    \endentry
+    \entry{Brownlee2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=915af163e2107106fced5dd3164d9a8e}{%
+           family={Brownlee},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Machine Learning Mastery}%
+      }
+      \strng{namehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{fullhash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{bibnamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authorbibnamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authornamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authorfullhash}{915af163e2107106fced5dd3164d9a8e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{month}{10}
+      \field{title}{Supervised and Unsupervised Machine Learning Algorithms}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/
+      \endverb
+      \verb{url}
+      \verb https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/
+      \endverb
+    \endentry
+    \entry{Deman2021}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=26b750a1b1210c95de265264e817bd25}{%
+           family={Deman},
+           familyi={D\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Mijnenergie}%
+      }
+      \strng{namehash}{26b750a1b1210c95de265264e817bd25}
+      \strng{fullhash}{26b750a1b1210c95de265264e817bd25}
+      \strng{bibnamehash}{26b750a1b1210c95de265264e817bd25}
+      \strng{authorbibnamehash}{26b750a1b1210c95de265264e817bd25}
+      \strng{authornamehash}{26b750a1b1210c95de265264e817bd25}
+      \strng{authorfullhash}{26b750a1b1210c95de265264e817bd25}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{month}{8}
+      \field{title}{Hoe maak je een digitale meter slim?}
+      \field{urlday}{15}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mijnenergie.be/blog/hoe-maak-je-een-digitale-meter-slim/#:~:text=De website www.maakjemeterslim.be,real time op te volgen.
+      \endverb
+      \verb{url}
+      \verb https://www.mijnenergie.be/blog/hoe-maak-je-een-digitale-meter-slim/#:~:text=De%20website%20www.maakjemeterslim.be,real%20time%20op%20te%20volgen.
+      \endverb
+    \endentry
+    \entry{Efimov2024}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3e48cfbde9ad7c65ae9cae6b0ca27811}{%
+           family={Efimov},
+           familyi={E\bibinitperiod},
+           given={Vyacheslav},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Towards Data Science}%
+      }
+      \strng{namehash}{3e48cfbde9ad7c65ae9cae6b0ca27811}
+      \strng{fullhash}{3e48cfbde9ad7c65ae9cae6b0ca27811}
+      \strng{bibnamehash}{3e48cfbde9ad7c65ae9cae6b0ca27811}
+      \strng{authorbibnamehash}{3e48cfbde9ad7c65ae9cae6b0ca27811}
+      \strng{authornamehash}{3e48cfbde9ad7c65ae9cae6b0ca27811}
+      \strng{authorfullhash}{3e48cfbde9ad7c65ae9cae6b0ca27811}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{month}{4}
+      \field{subtitle}{Making the first step into the world of reinforcement learningVyacheslav EfimovTowards Data Science}
+      \field{title}{Reinforcement Learning, Part 1: Introduction and Main Concepts}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/reinforcement-learning-introduction-and-main-concepts-48ea997c850c
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/reinforcement-learning-introduction-and-main-concepts-48ea997c850c
+      \endverb
+    \endentry
+    \entry{Irankhah2024}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e9e8451457b38b9b303a88ed7f0be494}{%
+           family={Irankhah},
+           familyi={I\bibinitperiod},
+           given={Arghavan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb64734fb5f24b00b15cf70718e92f2b}{%
+           family={Yaghmaee},
+           familyi={Y\bibinitperiod},
+           given={Mohammad\bibnamedelima Hossein},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0d8daa210dbb73224b90eb79a18e2b9}{%
+           family={Ershadi-Nasab},
+           familyi={E\bibinithyphendelim N\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{12d011584494bf61f3db97aee4bce3ad}
+      \strng{fullhash}{ec630a2b6e078f351322e1231f89c56b}
+      \strng{bibnamehash}{ec630a2b6e078f351322e1231f89c56b}
+      \strng{authorbibnamehash}{ec630a2b6e078f351322e1231f89c56b}
+      \strng{authornamehash}{12d011584494bf61f3db97aee4bce3ad}
+      \strng{authorfullhash}{ec630a2b6e078f351322e1231f89c56b}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Building Engineering}
+      \field{month}{1}
+      \field{title}{Optimized short-term load forecasting in residential buildingsbased on deep learning methods for different time horizons}
+      \field{year}{2024}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jobe.2024.108505
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S235271022400072X?via=ihub
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S235271022400072X?via=ihub
+      \endverb
+    \endentry
+    \entry{Jensen2023}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=7c076945c4cdb4d1a641fc37ac747290}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Adam\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=645951f4cee3cf053cf954e2c566c8f0}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Kevin\bibnamedelima S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d219c78c68434a2e05b02754c6db34da}{%
+           family={Holmgren},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdf3529a4ccff169ab5019d7a63f66e7}{%
+           family={Mikofski},
+           familyi={M\bibinitperiod},
+           given={Mark\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4ff8ccb126c59362313d5e524326607}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Clifford\bibnamedelima W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4e6c70abc25d20808466e09cd1e3415}{%
+           family={Boeman},
+           familyi={B\bibinitperiod},
+           given={Leland\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=816cd91f70f65d3faa78c6ff0f845aaf}{%
+           family={Roel},
+           familyi={R\bibinitperiod},
+           given={Loonen},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{699a6f7f219300bd289a7914ce669563}
+      \strng{fullhash}{070711aa1f7a154835c3e76f010052af}
+      \strng{bibnamehash}{070711aa1f7a154835c3e76f010052af}
+      \strng{authorbibnamehash}{070711aa1f7a154835c3e76f010052af}
+      \strng{authornamehash}{699a6f7f219300bd289a7914ce669563}
+      \strng{authorfullhash}{070711aa1f7a154835c3e76f010052af}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{journaltitle}{Solar Energy}
+      \field{month}{11}
+      \field{number}{112092}
+      \field{title}{pvlib iotools—Open-source Python functions for seamless access to solar irradiance data}
+      \field{volume}{266}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.solener.2023.112092
+      \endverb
+    \endentry
+    \entry{Khasawneh2024}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=dc3724522a09c6cb09654638645ba9a4}{%
+           family={Khasawneh},
+           familyi={K\bibinitperiod},
+           given={Hussam\bibnamedelima J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=856ed7a5e4d6a7fc11bed5f6159e4c33}{%
+           family={Ghazal},
+           familyi={G\bibinitperiod},
+           given={Zaid\bibnamedelima A.},
+           giveni={Z\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8820583d0f708d063e0d131c26b1e641}{%
+           family={Al-Khatib},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={Wasseem\bibnamedelima M.},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c00e4728a59e5c24c014d60550775b3d}{%
+           family={Al-Hadi},
+           familyi={A\bibinithyphendelim H\bibinitperiod},
+           given={Ahmad\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6cc5bcee7f9383881049e876cc8bef2}{%
+           family={Arabiyat},
+           familyi={A\bibinitperiod},
+           given={Zaid\bibnamedelima M.},
+           giveni={Z\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7c8d701cf1e6acb6b55f87d219414413}
+      \strng{fullhash}{6ed8f1cfe97282c8e07d94d506785ed8}
+      \strng{bibnamehash}{6ed8f1cfe97282c8e07d94d506785ed8}
+      \strng{authorbibnamehash}{6ed8f1cfe97282c8e07d94d506785ed8}
+      \strng{authornamehash}{7c8d701cf1e6acb6b55f87d219414413}
+      \strng{authorfullhash}{6ed8f1cfe97282c8e07d94d506785ed8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cogent Engineering}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Creating optimized machine learning pipelines for PV power generationforecasting using the grid search and tree-based pipeline optimizationtool}
+      \field{volume}{11}
+      \field{year}{2024}
+      \verb{doi}
+      \verb https://doi.org/10.1080/23311916.2024.2323818
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/epdf/10.1080/23311916.2024.2323818?needAccess=true
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/epdf/10.1080/23311916.2024.2323818?needAccess=true
+      \endverb
+    \endentry
+    \entry{Ledmaoui2023}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=5523fe5cb7bb5cdaf02f3a77ea2b8fd6}{%
+           family={Ledmaoui},
+           familyi={L\bibinitperiod},
+           given={Younes},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34effdc4411574e997dd22e9a121367c}{%
+           family={El\bibnamedelima Maghraoui},
+           familyi={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Adila},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=498659d68a0bd0c828835c4eed19ad63}{%
+           family={El\bibnamedelima Aroussi},
+           familyi={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=695a47771050e2946a5069fc2a589187}{%
+           family={Saadane},
+           familyi={S\bibinitperiod},
+           given={Rachid},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2dc6940701f3150846ac88356afdd8b5}{%
+           family={Chebak},
+           familyi={C\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fee7af1d47fcd5cc7f11ae77b45c9215}{%
+           family={Chehri},
+           familyi={C\bibinitperiod},
+           given={Abdellah},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6f943930af2fd45e5a331bb0fbb01509}
+      \strng{fullhash}{9147b6eb1892e4e62f5fb0a1dfdbdea2}
+      \strng{bibnamehash}{9147b6eb1892e4e62f5fb0a1dfdbdea2}
+      \strng{authorbibnamehash}{9147b6eb1892e4e62f5fb0a1dfdbdea2}
+      \strng{authornamehash}{6f943930af2fd45e5a331bb0fbb01509}
+      \strng{authorfullhash}{9147b6eb1892e4e62f5fb0a1dfdbdea2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Reports}
+      \field{month}{11}
+      \field{title}{Forecasting solar energy production: A comparative study of machine learning algorithms}
+      \field{volume}{10}
+      \field{year}{2023}
+      \field{pages}{1004\bibrangedash 1012}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.egyr.2023.07.042
+      \endverb
+      \verb{file}
+      \verb :Ledmaoui2023 - Forecasting Solar Energy Production_ a Comparative Study of Machine Learning Algorithms.html:URL
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352484723011228
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352484723011228
+      \endverb
+    \endentry
+    \entry{Mack2019}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=cc5855a80a46f6d124d493e01fc35cd8}{%
+           family={Mack},
+           familyi={M\bibinitperiod},
+           given={Birgit},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb1dcc3226f5040c00d3e90b5a1e7c90}{%
+           family={Tampe-Mai},
+           familyi={T\bibinithyphendelim M\bibinitperiod},
+           given={Karolin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1cc4c365c6a1d59b767caab96feb40a2}{%
+           family={Kouros},
+           familyi={K\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2ef400d6f500564aeb5c2dd08474c6b}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Frederick},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af1274a56bbc297d73d2204bbdf7245a}{%
+           family={Taube},
+           familyi={T\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b38b7a126027b53c7d181bdbb890188}{%
+           family={Diesch},
+           familyi={D\bibinitperiod},
+           given={Eugen},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{52aea48b73c8f12546e842f6fc893216}
+      \strng{fullhash}{9643505ec0b5ad17b85c8a45801f598c}
+      \strng{bibnamehash}{9643505ec0b5ad17b85c8a45801f598c}
+      \strng{authorbibnamehash}{9643505ec0b5ad17b85c8a45801f598c}
+      \strng{authornamehash}{52aea48b73c8f12546e842f6fc893216}
+      \strng{authorfullhash}{9643505ec0b5ad17b85c8a45801f598c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Research \& Social Science}
+      \field{month}{7}
+      \field{title}{Bridging the electricity saving intention-behavior gap: A German field experiment with a smart meter website}
+      \field{volume}{53}
+      \field{year}{2019}
+      \field{pages}{34\bibrangedash 46}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.erss.2019.01.024
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S2214629618308387
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S2214629618308387
+      \endverb
+    \endentry
+    \entry{Sahai2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a6ac351f5901685c8f9775ac897f9a93}{%
+           family={Sahai},
+           familyi={S\bibinitperiod},
+           given={Nidhi},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {AnalyticsLabs}%
+      }
+      \strng{namehash}{a6ac351f5901685c8f9775ac897f9a93}
+      \strng{fullhash}{a6ac351f5901685c8f9775ac897f9a93}
+      \strng{bibnamehash}{a6ac351f5901685c8f9775ac897f9a93}
+      \strng{authorbibnamehash}{a6ac351f5901685c8f9775ac897f9a93}
+      \strng{authornamehash}{a6ac351f5901685c8f9775ac897f9a93}
+      \strng{authorfullhash}{a6ac351f5901685c8f9775ac897f9a93}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{6}
+      \field{month}{9}
+      \field{title}{Random Forest Regression – How it Helps in Predictive Analytics?}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.analytixlabs.co.in/blog/random-forest-regression/
+      \endverb
+      \verb{url}
+      \verb https://www.analytixlabs.co.in/blog/random-forest-regression/
+      \endverb
+    \endentry
+    \entry{Sehrawat2023}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7a5cfc89b09e1fbc0b6873e4333b461b}{%
+           family={Sehrawat},
+           familyi={S\bibinitperiod},
+           given={Neha},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1b5140dfebc156533129f58a8e71787}{%
+           family={Vashisht},
+           familyi={V\bibinitperiod},
+           given={Sahil},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1268ae66b650d7419bd75a5302553922}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Amritpal},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f46776a0628b69cc02358d53d2b4b95}
+      \strng{fullhash}{60540499068cd006b29df94836c7d66b}
+      \strng{bibnamehash}{60540499068cd006b29df94836c7d66b}
+      \strng{authorbibnamehash}{60540499068cd006b29df94836c7d66b}
+      \strng{authornamehash}{9f46776a0628b69cc02358d53d2b4b95}
+      \strng{authorfullhash}{60540499068cd006b29df94836c7d66b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{journaltitle}{International Journal of Intelligent Networks}
+      \field{month}{5}
+      \field{title}{Solar irradiance forecasting models using machine learning techniques and digital twin: A case study with comparison}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{4}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{90\bibrangedash 102}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ijin.2023.04.001
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666603023000064#:~:text=The model's most critical factors,and day of the week.
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666603023000064#:~:text=The%20model's%20most%20critical%20factors,and%20day%20of%20the%20week.
+      \endverb
+    \endentry
+    \entry{Selleslagh2021}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e976a560d7f8454e33a9d13f79a0b879}{%
+           family={Selleslagh},
+           familyi={S\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Netto, De Tijd}%
+      }
+      \strng{namehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{fullhash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{bibnamehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{authorbibnamehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{authornamehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{authorfullhash}{e976a560d7f8454e33a9d13f79a0b879}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{journaltitle}{Netto, De Tijd}
+      \field{month}{4}
+      \field{title}{Zo haalt u toch voordeel uit combinatie van warmtepomp en zonnepanelen}
+      \field{urlday}{25}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tijd.be/netto/analyse/vastgoed/zo-haalt-u-toch-voordeel-uit-combinatie-van-warmtepomp-en-zonnepanelen/10297339.html
+      \endverb
+      \verb{url}
+      \verb https://www.tijd.be/netto/analyse/vastgoed/zo-haalt-u-toch-voordeel-uit-combinatie-van-warmtepomp-en-zonnepanelen/10297339.html
+      \endverb
+    \endentry
+    \entry{Selleslagh2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e976a560d7f8454e33a9d13f79a0b879}{%
+           family={Selleslagh},
+           familyi={S\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Netto, De Tijd}%
+      }
+      \strng{namehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{fullhash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{bibnamehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{authorbibnamehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{authornamehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{authorfullhash}{e976a560d7f8454e33a9d13f79a0b879}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{journaltitle}{Netto, De Tijd}
+      \field{month}{12}
+      \field{title}{Wat betekent het nieuwe piektarief voor uw stroomfactuur?}
+      \field{urlday}{15}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tijd.be/netto/dossiers/uw-geld-in-2023/wat-betekent-het-nieuwe-piektarief-voor-uw-stroomfactuur/10434556.html
+      \endverb
+      \verb{url}
+      \verb https://www.tijd.be/netto/dossiers/uw-geld-in-2023/wat-betekent-het-nieuwe-piektarief-voor-uw-stroomfactuur/10434556.html
+      \endverb
+    \endentry
+    \entry{Tercha2024}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=72f908e0d5f7976d5197fc23ff5ab682}{%
+           family={Tercha},
+           familyi={T\bibinitperiod},
+           given={Wassila},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70cda15c2c3077eae098f9c188acf061}{%
+           family={Tadjer},
+           familyi={T\bibinitperiod},
+           given={Sid\bibnamedelima Ahmed},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d598b7ac450c760eba93fcc6e4f120f}{%
+           family={Chekired},
+           familyi={C\bibinitperiod},
+           given={Fathia},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7905bef88e3dfec329e6aba5e0857615}{%
+           family={Canale},
+           familyi={C\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ffe8b381c99389524f2ba7277f02b300}
+      \strng{fullhash}{bb966aac74a72f0671a2f22b8f3253e4}
+      \strng{bibnamehash}{bb966aac74a72f0671a2f22b8f3253e4}
+      \strng{authorbibnamehash}{bb966aac74a72f0671a2f22b8f3253e4}
+      \strng{authornamehash}{ffe8b381c99389524f2ba7277f02b300}
+      \strng{authorfullhash}{bb966aac74a72f0671a2f22b8f3253e4}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energies}
+      \field{month}{2}
+      \field{title}{Machine Learning-Based Forecasting of Temperature and Solar Irradiance for Photovoltaic Systems}
+      \field{volume}{17}
+      \field{year}{2024}
+      \verb{doi}
+      \verb https://doi.org/10.3390/en17051124
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1996-1073/17/5/1124
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1996-1073/17/5/1124
+      \endverb
+    \endentry
+    \entry{Tziolis2024}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=9da4bb2a9044e55c25ea11deee64e683}{%
+           family={Tziolis},
+           familyi={T\bibinitperiod},
+           given={Georgios},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb18db50258f7226addf8c90554c3451}{%
+           family={Lopez-Lorente},
+           familyi={L\bibinithyphendelim L\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c9d9e30f2d11e177cf15875d253c4f3}{%
+           family={Baka},
+           familyi={B\bibinitperiod},
+           given={Maria-Iro},
+           giveni={M\bibinithyphendelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06abc7e3b413736f07cfc526691ddf2c}{%
+           family={Koumis},
+           familyi={K\bibinitperiod},
+           given={Anastasios},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=213753e5960c59ccc2fc1688f2847414}{%
+           family={Livera},
+           familyi={L\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3fb5bff71541ab5923d2fe6ce77c70b0}{%
+           family={Theocharides},
+           familyi={T\bibinitperiod},
+           given={Spyros},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=809151724067465f578faf6539b78aeb}{%
+           family={Makrides},
+           familyi={M\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82b8d8ad9329b4a90f242d25967711c6}{%
+           family={Georghiou},
+           familyi={G\bibinitperiod},
+           given={George\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ce8ed50e53289474eb33f9df06eba860}
+      \strng{fullhash}{36e8738c4dedaabdee3be64672726264}
+      \strng{bibnamehash}{36e8738c4dedaabdee3be64672726264}
+      \strng{authorbibnamehash}{36e8738c4dedaabdee3be64672726264}
+      \strng{authornamehash}{ce8ed50e53289474eb33f9df06eba860}
+      \strng{authorfullhash}{36e8738c4dedaabdee3be64672726264}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainable Energy, Grids and Networks}
+      \field{month}{3}
+      \field{number}{101256}
+      \field{title}{Direct short-term net load forecasting in renewable integrated microgrids using machine learning: A comparative assessment}
+      \field{volume}{37}
+      \field{year}{2024}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.segan.2023.101256
+      \endverb
+      \verb{file}
+      \verb :Tziolis2024 - Direct Short Term Net Load Forecasting in Renewable Integrated Microgrids Using Machine Learning_ a Comparative Assessment.html:URL
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352467723002643
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352467723002643
+      \endverb
+    \endentry
+    \entry{Verdoodt2018}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f7367ea1b97e38205d5d44b71ceff04}{%
+           family={Verdoodt},
+           familyi={V\bibinitperiod},
+           given={Björn},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{fullhash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{bibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authorbibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authornamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authorfullhash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \field{extraname}{1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{month}{9}
+      \field{title}{Fluviuslanceert testlabo’s voor digitale meters}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb :Literatuurstudie/2018 09 13 - Fluvius lanceert testlabo’s voor digitale meters .pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://pers.fluvius.be/fluvius-lanceert-testlabos-voor-digitale-meters
+      \endverb
+      \verb{url}
+      \verb https://pers.fluvius.be/fluvius-lanceert-testlabos-voor-digitale-meters
+      \endverb
+    \endentry
+    \entry{Verdoodt2022}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f7367ea1b97e38205d5d44b71ceff04}{%
+           family={Verdoodt},
+           familyi={V\bibinitperiod},
+           given={Björn},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Fluvius}%
+      }
+      \strng{namehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{fullhash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{bibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authorbibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authornamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authorfullhash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \field{extraname}{2}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Investeringsplan Fluvius 2023-2032}
+      \field{type}{techreport}
+      \field{year}{2022}
+      \verb{file}
+      \verb :Verdoodt2022 - Investeringsplan Fluvius 2023 2032.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://partner.fluvius.be/sites/fluvius/files/2022-06/investeringsplan-2023-2032.pdf
+      \endverb
+      \verb{url}
+      \verb https://partner.fluvius.be/sites/fluvius/files/2022-06/investeringsplan-2023-2032.pdf
+      \endverb
+    \endentry
+    \entry{Viswa2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=42936505fc2fb926893d1356c06ebcc9}{%
+           family={Viswa},
+           familyi={V\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{42936505fc2fb926893d1356c06ebcc9}
+      \strng{fullhash}{42936505fc2fb926893d1356c06ebcc9}
+      \strng{bibnamehash}{42936505fc2fb926893d1356c06ebcc9}
+      \strng{authorbibnamehash}{42936505fc2fb926893d1356c06ebcc9}
+      \strng{authornamehash}{42936505fc2fb926893d1356c06ebcc9}
+      \strng{authorfullhash}{42936505fc2fb926893d1356c06ebcc9}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{31}
+      \field{month}{7}
+      \field{title}{Unveiling Decision Tree Regression: Exploring its Principles, Implementation}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/@vk.viswa/unveiling-decision-tree-regression-exploring-its-principles-implementation-beb882d756c6
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@vk.viswa/unveiling-decision-tree-regression-exploring-its-principles-implementation-beb882d756c6
+      \endverb
+    \endentry
+    \entry{VREG2021}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1cc8617ad73ff7b5f0c9d3217b656390}{%
+           family={Vlaamse\bibnamedelimb Regulator\bibnamedelimb van\bibnamedelimb de\bibnamedelimb Elektriciteits-\bibnamedelimb en\bibnamedelimb Gasmarkt\bibnamedelima (VREG)},
+           familyi={V\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim v\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={(VREG)},
+           giveni={(\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {VREG}%
+      }
+      \strng{namehash}{1cc8617ad73ff7b5f0c9d3217b656390}
+      \strng{fullhash}{1cc8617ad73ff7b5f0c9d3217b656390}
+      \strng{bibnamehash}{1cc8617ad73ff7b5f0c9d3217b656390}
+      \strng{authorbibnamehash}{1cc8617ad73ff7b5f0c9d3217b656390}
+      \strng{authornamehash}{1cc8617ad73ff7b5f0c9d3217b656390}
+      \strng{authorfullhash}{1cc8617ad73ff7b5f0c9d3217b656390}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Marktmonitor 2021}
+      \field{type}{techreport}
+      \field{year}{2021}
+      \verb{file}
+      \verb :VREG2021 - Marktmonitor 2021.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.vreg.be/sites/default/files/document/rapp-2021-18.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.vreg.be/sites/default/files/document/rapp-2021-18.pdf
+      \endverb
+    \endentry
+    \entry{Wang2022}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4c2c66443bd221556bb807196cafa5fa}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaoyang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=193b698e48f4d17f6fe7ea91175dd24d}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Yunlin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1787da94dfad59e3b1818ca42f334f2d}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Duo},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1f8c9db3abdee3277ab2832edbb612d}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Jingping},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{10247cdcae7e6efc4770bd87e54bfd80}
+      \strng{fullhash}{51f623f2933a424eb7a16c41decde454}
+      \strng{bibnamehash}{51f623f2933a424eb7a16c41decde454}
+      \strng{authorbibnamehash}{51f623f2933a424eb7a16c41decde454}
+      \strng{authornamehash}{10247cdcae7e6efc4770bd87e54bfd80}
+      \strng{authorfullhash}{51f623f2933a424eb7a16c41decde454}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy}
+      \field{month}{2}
+      \field{number}{122733}
+      \field{title}{Comparative study of machine learning approaches for predicting short-term photovoltaic power output based on weather type classification}
+      \field{volume}{240}
+      \field{year}{2022}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.energy.2021.122733
+      \endverb
+      \verb{file}
+      \verb :https\://www.sciencedirect.com/science/article/pii/S0360544221029820:
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360544221029820
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360544221029820
+      \endverb
+    \endentry
+    \entry{Wemyss2019}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=28b7397853998f59abac814711362d97}{%
+           family={Wemyss},
+           familyi={W\bibinitperiod},
+           given={Devon},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=957b6eec42fbedb183b1e3e3a7c1ed29}{%
+           family={Cellina},
+           familyi={C\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=589537ac9f153dbdff163ca168f10319}{%
+           family={Lobsiger-Kägi},
+           familyi={L\bibinithyphendelim K\bibinitperiod},
+           given={Evelyn},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d448c15e5b7c549836ddbb2fd828b7b}{%
+           family={Luca},
+           familyi={L\bibinitperiod},
+           given={Vanessa},
+           giveni={V\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2b093d6f7aea766466ed807d3eca52f7}{%
+           family={Castri},
+           familyi={C\bibinitperiod},
+           given={Roberta},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{31df392f4619393703ff9d7ba2c360bf}
+      \strng{fullhash}{0edb33df4cb51abfa0b5ee3f46f69467}
+      \strng{bibnamehash}{0edb33df4cb51abfa0b5ee3f46f69467}
+      \strng{authorbibnamehash}{0edb33df4cb51abfa0b5ee3f46f69467}
+      \strng{authornamehash}{31df392f4619393703ff9d7ba2c360bf}
+      \strng{authorfullhash}{0edb33df4cb51abfa0b5ee3f46f69467}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Research \& Social Science}
+      \field{month}{1}
+      \field{title}{Does it last? Long-term impacts of an app-based behavior change intervention on household electricity savings in Switzerland}
+      \field{volume}{47}
+      \field{year}{2019}
+      \field{pages}{16\bibrangedash 27}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.erss.2018.08.018
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{Ahmad2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=001997575dedcc5f7955eef440d0d6e8}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Muhammad\bibnamedelima Waseem},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec4e762ce4fab2af4ca287fc6d69d453}{%
+           family={Reynolds},
+           familyi={R\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0205e3b60083523cc17f36882d47242}{%
+           family={Rezgui},
+           familyi={R\bibinitperiod},
+           given={Yacine},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5448f7cb8cf0be27c1a59fc39e635d7f}
+      \strng{fullhash}{3b82414a34cf98570e5c0155fa4dde38}
+      \strng{bibnamehash}{3b82414a34cf98570e5c0155fa4dde38}
+      \strng{authorbibnamehash}{3b82414a34cf98570e5c0155fa4dde38}
+      \strng{authornamehash}{5448f7cb8cf0be27c1a59fc39e635d7f}
+      \strng{authorfullhash}{3b82414a34cf98570e5c0155fa4dde38}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{month}{12}
+      \field{title}{Predictive modelling for solar thermal energy systems: A comparison of support vector regression, random forest, extra trees and regression trees}
+      \field{volume}{203}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{810\bibrangedash 821}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jclepro.2018.08.207
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0959652618325551?via=ihub
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0959652618325551?via=ihub
+      \endverb
+    \endentry
+    \entry{Balakumar2023}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0e6b2ce3cba4ab0ee3d3b267f5f6e186}{%
+           family={Balakumar},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ab3ce23d3a63d85f00036427e8bea30}{%
+           family={Vinopraba},
+           familyi={V\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60d626c5202a546e299a71f4c0f70bbb}{%
+           family={Chandrasekaran},
+           familyi={C\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f3c357e41bb3eb11294f103c8ee37796}
+      \strng{fullhash}{95e49ec7a740d7b2e760c25d3c1f42cf}
+      \strng{bibnamehash}{95e49ec7a740d7b2e760c25d3c1f42cf}
+      \strng{authorbibnamehash}{95e49ec7a740d7b2e760c25d3c1f42cf}
+      \strng{authornamehash}{f3c357e41bb3eb11294f103c8ee37796}
+      \strng{authorfullhash}{95e49ec7a740d7b2e760c25d3c1f42cf}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainable Cities and Society}
+      \field{month}{2}
+      \field{title}{Machine learning based demand response scheme for IoT enabled PVintegrated smart building}
+      \field{volume}{89}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.scs.2022.104260
+      \endverb
+      \verb{file}
+      \verb :/Users/jantubeeckx/Documents/TILE/TILE3/Bachelorproef/Bibliografie/1-s2.0-S2210670722005650-main (1).pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2210670722005650
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2210670722005650
+      \endverb
+    \endentry
+    \entry{Brownlee2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=915af163e2107106fced5dd3164d9a8e}{%
+           family={Brownlee},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Machine Learning Mastery}%
+      }
+      \strng{namehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{fullhash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{bibnamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authorbibnamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authornamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authorfullhash}{915af163e2107106fced5dd3164d9a8e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{month}{10}
+      \field{title}{Supervised and Unsupervised Machine Learning Algorithms}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/
+      \endverb
+      \verb{url}
+      \verb https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/
+      \endverb
+    \endentry
+    \entry{Deman2021}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=26b750a1b1210c95de265264e817bd25}{%
+           family={Deman},
+           familyi={D\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Mijnenergie}%
+      }
+      \strng{namehash}{26b750a1b1210c95de265264e817bd25}
+      \strng{fullhash}{26b750a1b1210c95de265264e817bd25}
+      \strng{bibnamehash}{26b750a1b1210c95de265264e817bd25}
+      \strng{authorbibnamehash}{26b750a1b1210c95de265264e817bd25}
+      \strng{authornamehash}{26b750a1b1210c95de265264e817bd25}
+      \strng{authorfullhash}{26b750a1b1210c95de265264e817bd25}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{month}{8}
+      \field{title}{Hoe maak je een digitale meter slim?}
+      \field{urlday}{15}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mijnenergie.be/blog/hoe-maak-je-een-digitale-meter-slim/#:~:text=De website www.maakjemeterslim.be,real time op te volgen.
+      \endverb
+      \verb{url}
+      \verb https://www.mijnenergie.be/blog/hoe-maak-je-een-digitale-meter-slim/#:~:text=De%20website%20www.maakjemeterslim.be,real%20time%20op%20te%20volgen.
+      \endverb
+    \endentry
+    \entry{Efimov2024}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3e48cfbde9ad7c65ae9cae6b0ca27811}{%
+           family={Efimov},
+           familyi={E\bibinitperiod},
+           given={Vyacheslav},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Towards Data Science}%
+      }
+      \strng{namehash}{3e48cfbde9ad7c65ae9cae6b0ca27811}
+      \strng{fullhash}{3e48cfbde9ad7c65ae9cae6b0ca27811}
+      \strng{bibnamehash}{3e48cfbde9ad7c65ae9cae6b0ca27811}
+      \strng{authorbibnamehash}{3e48cfbde9ad7c65ae9cae6b0ca27811}
+      \strng{authornamehash}{3e48cfbde9ad7c65ae9cae6b0ca27811}
+      \strng{authorfullhash}{3e48cfbde9ad7c65ae9cae6b0ca27811}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{month}{4}
+      \field{subtitle}{Making the first step into the world of reinforcement learningVyacheslav EfimovTowards Data Science}
+      \field{title}{Reinforcement Learning, Part 1: Introduction and Main Concepts}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/reinforcement-learning-introduction-and-main-concepts-48ea997c850c
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/reinforcement-learning-introduction-and-main-concepts-48ea997c850c
+      \endverb
+    \endentry
+    \entry{Irankhah2024}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e9e8451457b38b9b303a88ed7f0be494}{%
+           family={Irankhah},
+           familyi={I\bibinitperiod},
+           given={Arghavan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb64734fb5f24b00b15cf70718e92f2b}{%
+           family={Yaghmaee},
+           familyi={Y\bibinitperiod},
+           given={Mohammad\bibnamedelima Hossein},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0d8daa210dbb73224b90eb79a18e2b9}{%
+           family={Ershadi-Nasab},
+           familyi={E\bibinithyphendelim N\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{12d011584494bf61f3db97aee4bce3ad}
+      \strng{fullhash}{ec630a2b6e078f351322e1231f89c56b}
+      \strng{bibnamehash}{ec630a2b6e078f351322e1231f89c56b}
+      \strng{authorbibnamehash}{ec630a2b6e078f351322e1231f89c56b}
+      \strng{authornamehash}{12d011584494bf61f3db97aee4bce3ad}
+      \strng{authorfullhash}{ec630a2b6e078f351322e1231f89c56b}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Building Engineering}
+      \field{month}{1}
+      \field{title}{Optimized short-term load forecasting in residential buildingsbased on deep learning methods for different time horizons}
+      \field{year}{2024}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jobe.2024.108505
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S235271022400072X?via=ihub
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S235271022400072X?via=ihub
+      \endverb
+    \endentry
+    \entry{Jensen2023}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=7c076945c4cdb4d1a641fc37ac747290}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Adam\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=645951f4cee3cf053cf954e2c566c8f0}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Kevin\bibnamedelima S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d219c78c68434a2e05b02754c6db34da}{%
+           family={Holmgren},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdf3529a4ccff169ab5019d7a63f66e7}{%
+           family={Mikofski},
+           familyi={M\bibinitperiod},
+           given={Mark\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4ff8ccb126c59362313d5e524326607}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Clifford\bibnamedelima W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4e6c70abc25d20808466e09cd1e3415}{%
+           family={Boeman},
+           familyi={B\bibinitperiod},
+           given={Leland\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=816cd91f70f65d3faa78c6ff0f845aaf}{%
+           family={Roel},
+           familyi={R\bibinitperiod},
+           given={Loonen},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{699a6f7f219300bd289a7914ce669563}
+      \strng{fullhash}{070711aa1f7a154835c3e76f010052af}
+      \strng{bibnamehash}{070711aa1f7a154835c3e76f010052af}
+      \strng{authorbibnamehash}{070711aa1f7a154835c3e76f010052af}
+      \strng{authornamehash}{699a6f7f219300bd289a7914ce669563}
+      \strng{authorfullhash}{070711aa1f7a154835c3e76f010052af}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{journaltitle}{Solar Energy}
+      \field{month}{11}
+      \field{number}{112092}
+      \field{title}{pvlib iotools—Open-source Python functions for seamless access to solar irradiance data}
+      \field{volume}{266}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.solener.2023.112092
+      \endverb
+    \endentry
+    \entry{Khasawneh2024}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=dc3724522a09c6cb09654638645ba9a4}{%
+           family={Khasawneh},
+           familyi={K\bibinitperiod},
+           given={Hussam\bibnamedelima J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=856ed7a5e4d6a7fc11bed5f6159e4c33}{%
+           family={Ghazal},
+           familyi={G\bibinitperiod},
+           given={Zaid\bibnamedelima A.},
+           giveni={Z\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8820583d0f708d063e0d131c26b1e641}{%
+           family={Al-Khatib},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={Wasseem\bibnamedelima M.},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c00e4728a59e5c24c014d60550775b3d}{%
+           family={Al-Hadi},
+           familyi={A\bibinithyphendelim H\bibinitperiod},
+           given={Ahmad\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6cc5bcee7f9383881049e876cc8bef2}{%
+           family={Arabiyat},
+           familyi={A\bibinitperiod},
+           given={Zaid\bibnamedelima M.},
+           giveni={Z\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7c8d701cf1e6acb6b55f87d219414413}
+      \strng{fullhash}{6ed8f1cfe97282c8e07d94d506785ed8}
+      \strng{bibnamehash}{6ed8f1cfe97282c8e07d94d506785ed8}
+      \strng{authorbibnamehash}{6ed8f1cfe97282c8e07d94d506785ed8}
+      \strng{authornamehash}{7c8d701cf1e6acb6b55f87d219414413}
+      \strng{authorfullhash}{6ed8f1cfe97282c8e07d94d506785ed8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cogent Engineering}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Creating optimized machine learning pipelines for PV power generationforecasting using the grid search and tree-based pipeline optimizationtool}
+      \field{volume}{11}
+      \field{year}{2024}
+      \verb{doi}
+      \verb https://doi.org/10.1080/23311916.2024.2323818
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/epdf/10.1080/23311916.2024.2323818?needAccess=true
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/epdf/10.1080/23311916.2024.2323818?needAccess=true
+      \endverb
+    \endentry
+    \entry{Ledmaoui2023}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=5523fe5cb7bb5cdaf02f3a77ea2b8fd6}{%
+           family={Ledmaoui},
+           familyi={L\bibinitperiod},
+           given={Younes},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34effdc4411574e997dd22e9a121367c}{%
+           family={El\bibnamedelima Maghraoui},
+           familyi={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Adila},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=498659d68a0bd0c828835c4eed19ad63}{%
+           family={El\bibnamedelima Aroussi},
+           familyi={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=695a47771050e2946a5069fc2a589187}{%
+           family={Saadane},
+           familyi={S\bibinitperiod},
+           given={Rachid},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2dc6940701f3150846ac88356afdd8b5}{%
+           family={Chebak},
+           familyi={C\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fee7af1d47fcd5cc7f11ae77b45c9215}{%
+           family={Chehri},
+           familyi={C\bibinitperiod},
+           given={Abdellah},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6f943930af2fd45e5a331bb0fbb01509}
+      \strng{fullhash}{9147b6eb1892e4e62f5fb0a1dfdbdea2}
+      \strng{bibnamehash}{9147b6eb1892e4e62f5fb0a1dfdbdea2}
+      \strng{authorbibnamehash}{9147b6eb1892e4e62f5fb0a1dfdbdea2}
+      \strng{authornamehash}{6f943930af2fd45e5a331bb0fbb01509}
+      \strng{authorfullhash}{9147b6eb1892e4e62f5fb0a1dfdbdea2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Reports}
+      \field{month}{11}
+      \field{title}{Forecasting solar energy production: A comparative study of machine learning algorithms}
+      \field{volume}{10}
+      \field{year}{2023}
+      \field{pages}{1004\bibrangedash 1012}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.egyr.2023.07.042
+      \endverb
+      \verb{file}
+      \verb :Ledmaoui2023 - Forecasting Solar Energy Production_ a Comparative Study of Machine Learning Algorithms.html:URL
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352484723011228
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352484723011228
+      \endverb
+    \endentry
+    \entry{Mack2019}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=cc5855a80a46f6d124d493e01fc35cd8}{%
+           family={Mack},
+           familyi={M\bibinitperiod},
+           given={Birgit},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb1dcc3226f5040c00d3e90b5a1e7c90}{%
+           family={Tampe-Mai},
+           familyi={T\bibinithyphendelim M\bibinitperiod},
+           given={Karolin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1cc4c365c6a1d59b767caab96feb40a2}{%
+           family={Kouros},
+           familyi={K\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2ef400d6f500564aeb5c2dd08474c6b}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Frederick},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af1274a56bbc297d73d2204bbdf7245a}{%
+           family={Taube},
+           familyi={T\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b38b7a126027b53c7d181bdbb890188}{%
+           family={Diesch},
+           familyi={D\bibinitperiod},
+           given={Eugen},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{52aea48b73c8f12546e842f6fc893216}
+      \strng{fullhash}{9643505ec0b5ad17b85c8a45801f598c}
+      \strng{bibnamehash}{9643505ec0b5ad17b85c8a45801f598c}
+      \strng{authorbibnamehash}{9643505ec0b5ad17b85c8a45801f598c}
+      \strng{authornamehash}{52aea48b73c8f12546e842f6fc893216}
+      \strng{authorfullhash}{9643505ec0b5ad17b85c8a45801f598c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Research \& Social Science}
+      \field{month}{7}
+      \field{title}{Bridging the electricity saving intention-behavior gap: A German field experiment with a smart meter website}
+      \field{volume}{53}
+      \field{year}{2019}
+      \field{pages}{34\bibrangedash 46}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.erss.2019.01.024
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S2214629618308387
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S2214629618308387
+      \endverb
+    \endentry
+    \entry{Sahai2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a6ac351f5901685c8f9775ac897f9a93}{%
+           family={Sahai},
+           familyi={S\bibinitperiod},
+           given={Nidhi},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {AnalyticsLabs}%
+      }
+      \strng{namehash}{a6ac351f5901685c8f9775ac897f9a93}
+      \strng{fullhash}{a6ac351f5901685c8f9775ac897f9a93}
+      \strng{bibnamehash}{a6ac351f5901685c8f9775ac897f9a93}
+      \strng{authorbibnamehash}{a6ac351f5901685c8f9775ac897f9a93}
+      \strng{authornamehash}{a6ac351f5901685c8f9775ac897f9a93}
+      \strng{authorfullhash}{a6ac351f5901685c8f9775ac897f9a93}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{6}
+      \field{month}{9}
+      \field{title}{Random Forest Regression – How it Helps in Predictive Analytics?}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.analytixlabs.co.in/blog/random-forest-regression/
+      \endverb
+      \verb{url}
+      \verb https://www.analytixlabs.co.in/blog/random-forest-regression/
+      \endverb
+    \endentry
+    \entry{Sehrawat2023}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7a5cfc89b09e1fbc0b6873e4333b461b}{%
+           family={Sehrawat},
+           familyi={S\bibinitperiod},
+           given={Neha},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1b5140dfebc156533129f58a8e71787}{%
+           family={Vashisht},
+           familyi={V\bibinitperiod},
+           given={Sahil},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1268ae66b650d7419bd75a5302553922}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Amritpal},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f46776a0628b69cc02358d53d2b4b95}
+      \strng{fullhash}{60540499068cd006b29df94836c7d66b}
+      \strng{bibnamehash}{60540499068cd006b29df94836c7d66b}
+      \strng{authorbibnamehash}{60540499068cd006b29df94836c7d66b}
+      \strng{authornamehash}{9f46776a0628b69cc02358d53d2b4b95}
+      \strng{authorfullhash}{60540499068cd006b29df94836c7d66b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{journaltitle}{International Journal of Intelligent Networks}
+      \field{month}{5}
+      \field{title}{Solar irradiance forecasting models using machine learning techniques and digital twin: A case study with comparison}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{4}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{90\bibrangedash 102}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ijin.2023.04.001
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666603023000064#:~:text=The model's most critical factors,and day of the week.
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666603023000064#:~:text=The%20model's%20most%20critical%20factors,and%20day%20of%20the%20week.
+      \endverb
+    \endentry
+    \entry{Selleslagh2021}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e976a560d7f8454e33a9d13f79a0b879}{%
+           family={Selleslagh},
+           familyi={S\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Netto, De Tijd}%
+      }
+      \strng{namehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{fullhash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{bibnamehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{authorbibnamehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{authornamehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{authorfullhash}{e976a560d7f8454e33a9d13f79a0b879}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{journaltitle}{Netto, De Tijd}
+      \field{month}{4}
+      \field{title}{Zo haalt u toch voordeel uit combinatie van warmtepomp en zonnepanelen}
+      \field{urlday}{25}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tijd.be/netto/analyse/vastgoed/zo-haalt-u-toch-voordeel-uit-combinatie-van-warmtepomp-en-zonnepanelen/10297339.html
+      \endverb
+      \verb{url}
+      \verb https://www.tijd.be/netto/analyse/vastgoed/zo-haalt-u-toch-voordeel-uit-combinatie-van-warmtepomp-en-zonnepanelen/10297339.html
+      \endverb
+    \endentry
+    \entry{Selleslagh2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e976a560d7f8454e33a9d13f79a0b879}{%
+           family={Selleslagh},
+           familyi={S\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Netto, De Tijd}%
+      }
+      \strng{namehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{fullhash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{bibnamehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{authorbibnamehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{authornamehash}{e976a560d7f8454e33a9d13f79a0b879}
+      \strng{authorfullhash}{e976a560d7f8454e33a9d13f79a0b879}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{journaltitle}{Netto, De Tijd}
+      \field{month}{12}
+      \field{title}{Wat betekent het nieuwe piektarief voor uw stroomfactuur?}
+      \field{urlday}{15}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tijd.be/netto/dossiers/uw-geld-in-2023/wat-betekent-het-nieuwe-piektarief-voor-uw-stroomfactuur/10434556.html
+      \endverb
+      \verb{url}
+      \verb https://www.tijd.be/netto/dossiers/uw-geld-in-2023/wat-betekent-het-nieuwe-piektarief-voor-uw-stroomfactuur/10434556.html
+      \endverb
+    \endentry
+    \entry{Tercha2024}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=72f908e0d5f7976d5197fc23ff5ab682}{%
+           family={Tercha},
+           familyi={T\bibinitperiod},
+           given={Wassila},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70cda15c2c3077eae098f9c188acf061}{%
+           family={Tadjer},
+           familyi={T\bibinitperiod},
+           given={Sid\bibnamedelima Ahmed},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d598b7ac450c760eba93fcc6e4f120f}{%
+           family={Chekired},
+           familyi={C\bibinitperiod},
+           given={Fathia},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7905bef88e3dfec329e6aba5e0857615}{%
+           family={Canale},
+           familyi={C\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ffe8b381c99389524f2ba7277f02b300}
+      \strng{fullhash}{bb966aac74a72f0671a2f22b8f3253e4}
+      \strng{bibnamehash}{bb966aac74a72f0671a2f22b8f3253e4}
+      \strng{authorbibnamehash}{bb966aac74a72f0671a2f22b8f3253e4}
+      \strng{authornamehash}{ffe8b381c99389524f2ba7277f02b300}
+      \strng{authorfullhash}{bb966aac74a72f0671a2f22b8f3253e4}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energies}
+      \field{month}{2}
+      \field{title}{Machine Learning-Based Forecasting of Temperature and Solar Irradiance for Photovoltaic Systems}
+      \field{volume}{17}
+      \field{year}{2024}
+      \verb{doi}
+      \verb https://doi.org/10.3390/en17051124
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1996-1073/17/5/1124
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1996-1073/17/5/1124
+      \endverb
+    \endentry
+    \entry{Tziolis2024}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=9da4bb2a9044e55c25ea11deee64e683}{%
+           family={Tziolis},
+           familyi={T\bibinitperiod},
+           given={Georgios},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb18db50258f7226addf8c90554c3451}{%
+           family={Lopez-Lorente},
+           familyi={L\bibinithyphendelim L\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c9d9e30f2d11e177cf15875d253c4f3}{%
+           family={Baka},
+           familyi={B\bibinitperiod},
+           given={Maria-Iro},
+           giveni={M\bibinithyphendelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06abc7e3b413736f07cfc526691ddf2c}{%
+           family={Koumis},
+           familyi={K\bibinitperiod},
+           given={Anastasios},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=213753e5960c59ccc2fc1688f2847414}{%
+           family={Livera},
+           familyi={L\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3fb5bff71541ab5923d2fe6ce77c70b0}{%
+           family={Theocharides},
+           familyi={T\bibinitperiod},
+           given={Spyros},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=809151724067465f578faf6539b78aeb}{%
+           family={Makrides},
+           familyi={M\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82b8d8ad9329b4a90f242d25967711c6}{%
+           family={Georghiou},
+           familyi={G\bibinitperiod},
+           given={George\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ce8ed50e53289474eb33f9df06eba860}
+      \strng{fullhash}{36e8738c4dedaabdee3be64672726264}
+      \strng{bibnamehash}{36e8738c4dedaabdee3be64672726264}
+      \strng{authorbibnamehash}{36e8738c4dedaabdee3be64672726264}
+      \strng{authornamehash}{ce8ed50e53289474eb33f9df06eba860}
+      \strng{authorfullhash}{36e8738c4dedaabdee3be64672726264}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainable Energy, Grids and Networks}
+      \field{month}{3}
+      \field{number}{101256}
+      \field{title}{Direct short-term net load forecasting in renewable integrated microgrids using machine learning: A comparative assessment}
+      \field{volume}{37}
+      \field{year}{2024}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.segan.2023.101256
+      \endverb
+      \verb{file}
+      \verb :Tziolis2024 - Direct Short Term Net Load Forecasting in Renewable Integrated Microgrids Using Machine Learning_ a Comparative Assessment.html:URL
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352467723002643
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352467723002643
+      \endverb
+    \endentry
+    \entry{Verdoodt2018}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f7367ea1b97e38205d5d44b71ceff04}{%
+           family={Verdoodt},
+           familyi={V\bibinitperiod},
+           given={Björn},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{fullhash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{bibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authorbibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authornamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authorfullhash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \field{extraname}{1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{month}{9}
+      \field{title}{Fluviuslanceert testlabo’s voor digitale meters}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb :Literatuurstudie/2018 09 13 - Fluvius lanceert testlabo’s voor digitale meters .pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://pers.fluvius.be/fluvius-lanceert-testlabos-voor-digitale-meters
+      \endverb
+      \verb{url}
+      \verb https://pers.fluvius.be/fluvius-lanceert-testlabos-voor-digitale-meters
+      \endverb
+    \endentry
+    \entry{Verdoodt2022}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f7367ea1b97e38205d5d44b71ceff04}{%
+           family={Verdoodt},
+           familyi={V\bibinitperiod},
+           given={Björn},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Fluvius}%
+      }
+      \strng{namehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{fullhash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{bibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authorbibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authornamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authorfullhash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \field{extraname}{2}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Investeringsplan Fluvius 2023-2032}
+      \field{type}{techreport}
+      \field{year}{2022}
+      \verb{file}
+      \verb :Verdoodt2022 - Investeringsplan Fluvius 2023 2032.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://partner.fluvius.be/sites/fluvius/files/2022-06/investeringsplan-2023-2032.pdf
+      \endverb
+      \verb{url}
+      \verb https://partner.fluvius.be/sites/fluvius/files/2022-06/investeringsplan-2023-2032.pdf
+      \endverb
+    \endentry
+    \entry{Viswa2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=42936505fc2fb926893d1356c06ebcc9}{%
+           family={Viswa},
+           familyi={V\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{42936505fc2fb926893d1356c06ebcc9}
+      \strng{fullhash}{42936505fc2fb926893d1356c06ebcc9}
+      \strng{bibnamehash}{42936505fc2fb926893d1356c06ebcc9}
+      \strng{authorbibnamehash}{42936505fc2fb926893d1356c06ebcc9}
+      \strng{authornamehash}{42936505fc2fb926893d1356c06ebcc9}
+      \strng{authorfullhash}{42936505fc2fb926893d1356c06ebcc9}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{31}
+      \field{month}{7}
+      \field{title}{Unveiling Decision Tree Regression: Exploring its Principles, Implementation}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/@vk.viswa/unveiling-decision-tree-regression-exploring-its-principles-implementation-beb882d756c6
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@vk.viswa/unveiling-decision-tree-regression-exploring-its-principles-implementation-beb882d756c6
+      \endverb
+    \endentry
+    \entry{VREG2021}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1cc8617ad73ff7b5f0c9d3217b656390}{%
+           family={Vlaamse\bibnamedelimb Regulator\bibnamedelimb van\bibnamedelimb de\bibnamedelimb Elektriciteits-\bibnamedelimb en\bibnamedelimb Gasmarkt\bibnamedelima (VREG)},
+           familyi={V\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim v\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={(VREG)},
+           giveni={(\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {VREG}%
+      }
+      \strng{namehash}{1cc8617ad73ff7b5f0c9d3217b656390}
+      \strng{fullhash}{1cc8617ad73ff7b5f0c9d3217b656390}
+      \strng{bibnamehash}{1cc8617ad73ff7b5f0c9d3217b656390}
+      \strng{authorbibnamehash}{1cc8617ad73ff7b5f0c9d3217b656390}
+      \strng{authornamehash}{1cc8617ad73ff7b5f0c9d3217b656390}
+      \strng{authorfullhash}{1cc8617ad73ff7b5f0c9d3217b656390}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Marktmonitor 2021}
+      \field{type}{techreport}
+      \field{year}{2021}
+      \verb{file}
+      \verb :VREG2021 - Marktmonitor 2021.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.vreg.be/sites/default/files/document/rapp-2021-18.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.vreg.be/sites/default/files/document/rapp-2021-18.pdf
+      \endverb
+    \endentry
+    \entry{Wang2022}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4c2c66443bd221556bb807196cafa5fa}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaoyang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=193b698e48f4d17f6fe7ea91175dd24d}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Yunlin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1787da94dfad59e3b1818ca42f334f2d}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Duo},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1f8c9db3abdee3277ab2832edbb612d}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Jingping},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{10247cdcae7e6efc4770bd87e54bfd80}
+      \strng{fullhash}{51f623f2933a424eb7a16c41decde454}
+      \strng{bibnamehash}{51f623f2933a424eb7a16c41decde454}
+      \strng{authorbibnamehash}{51f623f2933a424eb7a16c41decde454}
+      \strng{authornamehash}{10247cdcae7e6efc4770bd87e54bfd80}
+      \strng{authorfullhash}{51f623f2933a424eb7a16c41decde454}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy}
+      \field{month}{2}
+      \field{number}{122733}
+      \field{title}{Comparative study of machine learning approaches for predicting short-term photovoltaic power output based on weather type classification}
+      \field{volume}{240}
+      \field{year}{2022}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.energy.2021.122733
+      \endverb
+      \verb{file}
+      \verb :https\://www.sciencedirect.com/science/article/pii/S0360544221029820:
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360544221029820
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360544221029820
+      \endverb
+    \endentry
+    \entry{Wemyss2019}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=28b7397853998f59abac814711362d97}{%
+           family={Wemyss},
+           familyi={W\bibinitperiod},
+           given={Devon},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=957b6eec42fbedb183b1e3e3a7c1ed29}{%
+           family={Cellina},
+           familyi={C\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=589537ac9f153dbdff163ca168f10319}{%
+           family={Lobsiger-Kägi},
+           familyi={L\bibinithyphendelim K\bibinitperiod},
+           given={Evelyn},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d448c15e5b7c549836ddbb2fd828b7b}{%
+           family={Luca},
+           familyi={L\bibinitperiod},
+           given={Vanessa},
+           giveni={V\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2b093d6f7aea766466ed807d3eca52f7}{%
+           family={Castri},
+           familyi={C\bibinitperiod},
+           given={Roberta},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{31df392f4619393703ff9d7ba2c360bf}
+      \strng{fullhash}{0edb33df4cb51abfa0b5ee3f46f69467}
+      \strng{bibnamehash}{0edb33df4cb51abfa0b5ee3f46f69467}
+      \strng{authorbibnamehash}{0edb33df4cb51abfa0b5ee3f46f69467}
+      \strng{authornamehash}{31df392f4619393703ff9d7ba2c360bf}
+      \strng{authorfullhash}{0edb33df4cb51abfa0b5ee3f46f69467}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Research \& Social Science}
+      \field{month}{1}
+      \field{title}{Does it last? Long-term impacts of an app-based behavior change intervention on household electricity savings in Switzerland}
+      \field{volume}{47}
+      \field{year}{2019}
+      \field{pages}{16\bibrangedash 27}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.erss.2018.08.018
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{Allardice}
+  \missing{Balis2017}
+  \missing{BarreraAnimas2022}
+  \missing{Firtman2022}
+  \missing{Guo2022}
+  \missing{Jong2020}
+  \missing{Struckov2019}
+  \missing{Uytterhoeven2019}
+\endrefsection
+\endinput
+

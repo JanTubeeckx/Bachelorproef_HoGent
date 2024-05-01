@@ -3057,21 +3057,50 @@
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
     <bcf:datasource type="file" datatype="bibtex" glob="false">bachproef.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">../voorstel/voorstel.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="5" intorder="1">Pollefliet2011</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Verdoodt2022</bcf:citekey>
     <bcf:citekey order="6" intorder="1">Verdoodt2022</bcf:citekey>
     <bcf:citekey order="7" intorder="1">Verdoodt2022</bcf:citekey>
     <bcf:citekey order="8" intorder="1">Verdoodt2022</bcf:citekey>
     <bcf:citekey order="9" intorder="1">Verdoodt2022</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">Verdoodt2022</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">Wemyss2019</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Wemyss2019</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">VREG2021</bcf:citekey>
     <bcf:citekey order="12" intorder="1">VREG2021</bcf:citekey>
     <bcf:citekey order="13" intorder="1">Selleslagh2022</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">Pollefliet2011</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">Knuth1998</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">Creeger2009</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">Deman2021</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Wemyss2019</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">Mack2019</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">VREG2021</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">Brownlee2023</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Brownlee2023</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Efimov2024</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Balakumar2023</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">Viswa2023</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Balakumar2023</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">Sahai2023</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">Tziolis2024</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">Ahmad2018</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">Wang2022</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Ledmaoui2023</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">Sehrawat2023</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">Sehrawat2023</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">Verdoodt2018</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">Guo2022</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">Ledmaoui2023</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">Wang2022</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">BarreraAnimas2022</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">Balis2017</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">Struckov2019</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">Allardice</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">Firtman2022</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">Uytterhoeven2019</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">Selleslagh2021</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">Jong2020</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">Khasawneh2024</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">Tercha2024</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">Irankhah2024</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">Jensen2023</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
@@ -3119,6 +3148,15 @@
                 type="entry"
                 sortingtemplatename="apa"
                 sortingnamekeytemplatename="apasortcite"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="0"
+                name="apa/global//global/global"
+                type="entry"
+                sortingtemplatename="apa"
+                sortingnamekeytemplatename="global"
                 labelprefix=""
                 uniquenametemplatename="global"
                 labelalphanametemplatename="global">

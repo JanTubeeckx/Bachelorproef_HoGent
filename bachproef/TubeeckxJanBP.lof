@@ -5,6 +5,11 @@
 \contentsline {figure}{\numberline {1.3}{\ignorespaces Verwachte evolutie van zonnepanelen in Vlaanderen \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{3}{figure.caption.7}%
 \contentsline {figure}{\numberline {1.4}{\ignorespaces Verwachte evolutie van de elektrificatie van zwaar vrachtvervoer in Vlaanderen \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{3}{figure.caption.8}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Grafische voorstelling beslissingsboom.}}{9}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Grafische voorstellingvan het Random Forest algoritme.}}{10}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Grafische voorstelling Support Vector Machine.}}{11}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Grafische voorstellingvan het LSTM algoritme.}}{13}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Grafische voorstelling van de structuur van het XGBoost algoritme.}}{14}{figure.caption.13}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
