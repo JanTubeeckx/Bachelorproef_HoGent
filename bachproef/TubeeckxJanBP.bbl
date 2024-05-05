@@ -124,6 +124,145 @@
       \verb https://www.sciencedirect.com/science/article/pii/S2210670722005650
       \endverb
     \endentry
+    \entry{Balis2017}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=0ff0bcacbe7d0b56f973b313f10a6e37}{%
+           family={Balis},
+           familyi={B\bibinitperiod},
+           given={Bartosz},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfb8e981816251f15d03cbc87221a1f1}{%
+           family={Bubak},
+           familyi={B\bibinitperiod},
+           given={Marian},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a368ecabb508be7733c58b236757d600}{%
+           family={Harezlak},
+           familyi={H\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81eeb031710ebb2214f8e0b08069dc40}{%
+           family={Piotr},
+           familyi={P\bibinitperiod},
+           given={Nowakowski},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be5b890db540fe3ecba952f3ebff78ab}{%
+           family={Pawlik},
+           familyi={P\bibinitperiod},
+           given={Maciej},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0571a33bced7a62b812c7ad4bd5a8a3f}{%
+           family={Wilk},
+           familyi={W\bibinitperiod},
+           given={Bartosz},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3f7e91a903fdc55da4742441ee61bacd}
+      \strng{fullhash}{9edd5f42b810b0b5f5ce85049ab2771f}
+      \strng{bibnamehash}{9edd5f42b810b0b5f5ce85049ab2771f}
+      \strng{authorbibnamehash}{9edd5f42b810b0b5f5ce85049ab2771f}
+      \strng{authornamehash}{3f7e91a903fdc55da4742441ee61bacd}
+      \strng{authorfullhash}{9edd5f42b810b0b5f5ce85049ab2771f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{title}{Towards an operational database for real-time environmental monitoring and early warning systems}
+      \field{volume}{108}
+      \field{year}{2017}
+      \field{pages}{2250\bibrangedash 2259}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.procs.2017.05.193
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050917307846
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050917307846
+      \endverb
+    \endentry
+    \entry{BarreraAnimas2022}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=5e19f94835192592287b9533ec97de70}{%
+           family={Barrera-Animas},
+           familyi={B\bibinithyphendelim A\bibinitperiod},
+           given={Ari\bibnamedelima Yair},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce04a019589f0807e7ac8a8f1ce9e012}{%
+           family={Oyedele},
+           familyi={O\bibinitperiod},
+           given={Lukumon\bibnamedelima O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=538e00be099131eb89f9d1633c4c6c64}{%
+           family={Bilal},
+           familyi={B\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ace4c9fa96ddbcd7c3401680db9d816}{%
+           family={Akinosho},
+           familyi={A\bibinitperiod},
+           given={Taofeek\bibnamedelima Dolapo},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aed1b560f33bbd536891b30eb6521178}{%
+           family={Delgado},
+           familyi={D\bibinitperiod},
+           given={Juan\bibnamedelimb Manuel\bibnamedelima Davila},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1feec640d9bd4aa07c1422c2f80811d7}{%
+           family={Adewale\bibnamedelima Akanbi},
+           familyi={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Lukman},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d4f90b1ac1b5221b9578b767606683d2}
+      \strng{fullhash}{6d3905784896b20dfd860557d6a867fb}
+      \strng{bibnamehash}{6d3905784896b20dfd860557d6a867fb}
+      \strng{authorbibnamehash}{6d3905784896b20dfd860557d6a867fb}
+      \strng{authornamehash}{d4f90b1ac1b5221b9578b767606683d2}
+      \strng{authorfullhash}{6d3905784896b20dfd860557d6a867fb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Learning with Applications}
+      \field{month}{3}
+      \field{number}{100204}
+      \field{title}{Rainfall prediction: A comparative analysis of modern machine learning algorithms for time-series forecasting}
+      \field{volume}{7}
+      \field{year}{2022}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.mlwa.2021.100204
+      \endverb
+      \verb{file}
+      \verb :https\://www.sciencedirect.com/science/article/pii/S266682702100102X:
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S266682702100102X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S266682702100102X
+      \endverb
+    \endentry
     \entry{Brownlee2023}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=915af163e2107106fced5dd3164d9a8e}{%
@@ -207,6 +346,45 @@
       \endverb
       \verb{url}
       \verb https://www.mijnenergie.be/blog/hoe-maak-je-een-digitale-meter-slim/#:~:text=De%20website%20www.maakjemeterslim.be,real%20time%20op%20te%20volgen.
+      \endverb
+    \endentry
+    \entry{Depuydt2021}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb3514e2465916501b77f43afbbf8797}{%
+           family={Depuydt},
+           familyi={D\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fb3514e2465916501b77f43afbbf8797}
+      \strng{fullhash}{fb3514e2465916501b77f43afbbf8797}
+      \strng{bibnamehash}{fb3514e2465916501b77f43afbbf8797}
+      \strng{authorbibnamehash}{fb3514e2465916501b77f43afbbf8797}
+      \strng{authornamehash}{fb3514e2465916501b77f43afbbf8797}
+      \strng{authorfullhash}{fb3514e2465916501b77f43afbbf8797}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{howpublished}{Blog}
+      \field{month}{2}
+      \field{title}{Data lezen van de P1 poort op de Belgische digitale elektriciteitsmeter}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://jensd.be/1205/linux/data-lezen-van-de-belgische-digitale-meter-met-de-p1-poort
+      \endverb
+      \verb{url}
+      \verb https://jensd.be/1205/linux/data-lezen-van-de-belgische-digitale-meter-met-de-p1-poort
       \endverb
     \endentry
     \entry{Efimov2024}{online}{}
@@ -619,6 +797,68 @@
       \verb https://www.analytixlabs.co.in/blog/random-forest-regression/
       \endverb
     \endentry
+    \entry{Sansine2023}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=50b40e1566e4286a540299a039783120}{%
+           family={Sansine},
+           familyi={S\bibinitperiod},
+           given={Vateanui},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=699f9b7fe2700a0e83e877eeb3be9061}{%
+           family={Ortega},
+           familyi={O\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5000dffe2ac2e25b7e67c0eb875fd5e6}{%
+           family={Hissel},
+           familyi={H\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ffb4c3f23a403420c07325787c8e8da}{%
+           family={Hopuare},
+           familyi={H\bibinitperiod},
+           given={Marania},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{23d5f131ad8996d48f45db1a503061c7}
+      \strng{fullhash}{b9da70a1cb966b2477671d05498b40ec}
+      \strng{bibnamehash}{b9da70a1cb966b2477671d05498b40ec}
+      \strng{authorbibnamehash}{b9da70a1cb966b2477671d05498b40ec}
+      \strng{authornamehash}{23d5f131ad8996d48f45db1a503061c7}
+      \strng{authorfullhash}{b9da70a1cb966b2477671d05498b40ec}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{journaltitle}{Sustainability}
+      \field{month}{11}
+      \field{number}{22}
+      \field{title}{Solar Irradiance Probabilistic Forecasting UsingMachine Learning, Metaheuristic Models and NumericalWeather Predictions}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.3390/su142215260
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2071-1050/14/22/15260
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2071-1050/14/22/15260
+      \endverb
+    \endentry
     \entry{Sehrawat2023}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=7a5cfc89b09e1fbc0b6873e4333b461b}{%
@@ -762,6 +1002,60 @@
       \verb https://www.tijd.be/netto/dossiers/uw-geld-in-2023/wat-betekent-het-nieuwe-piektarief-voor-uw-stroomfactuur/10434556.html
       \endverb
     \endentry
+    \entry{Struckov2019}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c101881d36515e5b9af7edc67940aa83}{%
+           family={Struckov},
+           familyi={S\bibinitperiod},
+           given={Alexey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a6db1f0ec0c769cc58a6b5c77787329}{%
+           family={Yufa},
+           familyi={Y\bibinitperiod},
+           given={Semen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=735b34c143a7e92b0fa8066b87ba1eb0}{%
+           family={Visheratin},
+           familyi={V\bibinitperiod},
+           given={Alexander\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20d5ed5d78ac701d1b6a87169049e63c}{%
+           family={Nasonov},
+           familyi={N\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{261207357329efddc56b7e74d1b65ac8}
+      \strng{fullhash}{b1e8c58cbeef3db1e83db272ccf52210}
+      \strng{bibnamehash}{b1e8c58cbeef3db1e83db272ccf52210}
+      \strng{authorbibnamehash}{b1e8c58cbeef3db1e83db272ccf52210}
+      \strng{authornamehash}{261207357329efddc56b7e74d1b65ac8}
+      \strng{authorfullhash}{b1e8c58cbeef3db1e83db272ccf52210}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{title}{Evaluation of modern tools and techniques for storing time-series data}
+      \field{volume}{156}
+      \field{year}{2019}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.procs.2019.08.125
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050919310439
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050919310439
+      \endverb
+    \endentry
     \entry{Tercha2024}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=72f908e0d5f7976d5197fc23ff5ab682}{%
@@ -900,48 +1194,6 @@
       \verb https://www.sciencedirect.com/science/article/pii/S2352467723002643
       \endverb
     \endentry
-    \entry{Verdoodt2018}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6f7367ea1b97e38205d5d44b71ceff04}{%
-           family={Verdoodt},
-           familyi={V\bibinitperiod},
-           given={Björn},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{6f7367ea1b97e38205d5d44b71ceff04}
-      \strng{fullhash}{6f7367ea1b97e38205d5d44b71ceff04}
-      \strng{bibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
-      \strng{authorbibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
-      \strng{authornamehash}{6f7367ea1b97e38205d5d44b71ceff04}
-      \strng{authorfullhash}{6f7367ea1b97e38205d5d44b71ceff04}
-      \field{extraname}{1}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{13}
-      \field{month}{9}
-      \field{title}{Fluviuslanceert testlabo’s voor digitale meters}
-      \field{urlday}{14}
-      \field{urlmonth}{5}
-      \field{urlyear}{2023}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb :Literatuurstudie/2018 09 13 - Fluvius lanceert testlabo’s voor digitale meters .pdf:PDF
-      \endverb
-      \verb{urlraw}
-      \verb https://pers.fluvius.be/fluvius-lanceert-testlabos-voor-digitale-meters
-      \endverb
-      \verb{url}
-      \verb https://pers.fluvius.be/fluvius-lanceert-testlabos-voor-digitale-meters
-      \endverb
-    \endentry
     \entry{Verdoodt2022}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6f7367ea1b97e38205d5d44b71ceff04}{%
@@ -960,7 +1212,6 @@
       \strng{authorbibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
       \strng{authornamehash}{6f7367ea1b97e38205d5d44b71ceff04}
       \strng{authorfullhash}{6f7367ea1b97e38205d5d44b71ceff04}
-      \field{extraname}{2}
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{extradatescope}{labelyear}
@@ -1286,6 +1537,145 @@
       \verb https://www.sciencedirect.com/science/article/pii/S2210670722005650
       \endverb
     \endentry
+    \entry{Balis2017}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=0ff0bcacbe7d0b56f973b313f10a6e37}{%
+           family={Balis},
+           familyi={B\bibinitperiod},
+           given={Bartosz},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfb8e981816251f15d03cbc87221a1f1}{%
+           family={Bubak},
+           familyi={B\bibinitperiod},
+           given={Marian},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a368ecabb508be7733c58b236757d600}{%
+           family={Harezlak},
+           familyi={H\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81eeb031710ebb2214f8e0b08069dc40}{%
+           family={Piotr},
+           familyi={P\bibinitperiod},
+           given={Nowakowski},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be5b890db540fe3ecba952f3ebff78ab}{%
+           family={Pawlik},
+           familyi={P\bibinitperiod},
+           given={Maciej},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0571a33bced7a62b812c7ad4bd5a8a3f}{%
+           family={Wilk},
+           familyi={W\bibinitperiod},
+           given={Bartosz},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3f7e91a903fdc55da4742441ee61bacd}
+      \strng{fullhash}{9edd5f42b810b0b5f5ce85049ab2771f}
+      \strng{bibnamehash}{9edd5f42b810b0b5f5ce85049ab2771f}
+      \strng{authorbibnamehash}{9edd5f42b810b0b5f5ce85049ab2771f}
+      \strng{authornamehash}{3f7e91a903fdc55da4742441ee61bacd}
+      \strng{authorfullhash}{9edd5f42b810b0b5f5ce85049ab2771f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{title}{Towards an operational database for real-time environmental monitoring and early warning systems}
+      \field{volume}{108}
+      \field{year}{2017}
+      \field{pages}{2250\bibrangedash 2259}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.procs.2017.05.193
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050917307846
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050917307846
+      \endverb
+    \endentry
+    \entry{BarreraAnimas2022}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=5e19f94835192592287b9533ec97de70}{%
+           family={Barrera-Animas},
+           familyi={B\bibinithyphendelim A\bibinitperiod},
+           given={Ari\bibnamedelima Yair},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce04a019589f0807e7ac8a8f1ce9e012}{%
+           family={Oyedele},
+           familyi={O\bibinitperiod},
+           given={Lukumon\bibnamedelima O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=538e00be099131eb89f9d1633c4c6c64}{%
+           family={Bilal},
+           familyi={B\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ace4c9fa96ddbcd7c3401680db9d816}{%
+           family={Akinosho},
+           familyi={A\bibinitperiod},
+           given={Taofeek\bibnamedelima Dolapo},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aed1b560f33bbd536891b30eb6521178}{%
+           family={Delgado},
+           familyi={D\bibinitperiod},
+           given={Juan\bibnamedelimb Manuel\bibnamedelima Davila},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1feec640d9bd4aa07c1422c2f80811d7}{%
+           family={Adewale\bibnamedelima Akanbi},
+           familyi={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Lukman},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d4f90b1ac1b5221b9578b767606683d2}
+      \strng{fullhash}{6d3905784896b20dfd860557d6a867fb}
+      \strng{bibnamehash}{6d3905784896b20dfd860557d6a867fb}
+      \strng{authorbibnamehash}{6d3905784896b20dfd860557d6a867fb}
+      \strng{authornamehash}{d4f90b1ac1b5221b9578b767606683d2}
+      \strng{authorfullhash}{6d3905784896b20dfd860557d6a867fb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Learning with Applications}
+      \field{month}{3}
+      \field{number}{100204}
+      \field{title}{Rainfall prediction: A comparative analysis of modern machine learning algorithms for time-series forecasting}
+      \field{volume}{7}
+      \field{year}{2022}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.mlwa.2021.100204
+      \endverb
+      \verb{file}
+      \verb :https\://www.sciencedirect.com/science/article/pii/S266682702100102X:
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S266682702100102X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S266682702100102X
+      \endverb
+    \endentry
     \entry{Brownlee2023}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=915af163e2107106fced5dd3164d9a8e}{%
@@ -1369,6 +1759,45 @@
       \endverb
       \verb{url}
       \verb https://www.mijnenergie.be/blog/hoe-maak-je-een-digitale-meter-slim/#:~:text=De%20website%20www.maakjemeterslim.be,real%20time%20op%20te%20volgen.
+      \endverb
+    \endentry
+    \entry{Depuydt2021}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb3514e2465916501b77f43afbbf8797}{%
+           family={Depuydt},
+           familyi={D\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fb3514e2465916501b77f43afbbf8797}
+      \strng{fullhash}{fb3514e2465916501b77f43afbbf8797}
+      \strng{bibnamehash}{fb3514e2465916501b77f43afbbf8797}
+      \strng{authorbibnamehash}{fb3514e2465916501b77f43afbbf8797}
+      \strng{authornamehash}{fb3514e2465916501b77f43afbbf8797}
+      \strng{authorfullhash}{fb3514e2465916501b77f43afbbf8797}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{howpublished}{Blog}
+      \field{month}{2}
+      \field{title}{Data lezen van de P1 poort op de Belgische digitale elektriciteitsmeter}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://jensd.be/1205/linux/data-lezen-van-de-belgische-digitale-meter-met-de-p1-poort
+      \endverb
+      \verb{url}
+      \verb https://jensd.be/1205/linux/data-lezen-van-de-belgische-digitale-meter-met-de-p1-poort
       \endverb
     \endentry
     \entry{Efimov2024}{online}{}
@@ -1781,6 +2210,68 @@
       \verb https://www.analytixlabs.co.in/blog/random-forest-regression/
       \endverb
     \endentry
+    \entry{Sansine2023}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=50b40e1566e4286a540299a039783120}{%
+           family={Sansine},
+           familyi={S\bibinitperiod},
+           given={Vateanui},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=699f9b7fe2700a0e83e877eeb3be9061}{%
+           family={Ortega},
+           familyi={O\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5000dffe2ac2e25b7e67c0eb875fd5e6}{%
+           family={Hissel},
+           familyi={H\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ffb4c3f23a403420c07325787c8e8da}{%
+           family={Hopuare},
+           familyi={H\bibinitperiod},
+           given={Marania},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{23d5f131ad8996d48f45db1a503061c7}
+      \strng{fullhash}{b9da70a1cb966b2477671d05498b40ec}
+      \strng{bibnamehash}{b9da70a1cb966b2477671d05498b40ec}
+      \strng{authorbibnamehash}{b9da70a1cb966b2477671d05498b40ec}
+      \strng{authornamehash}{23d5f131ad8996d48f45db1a503061c7}
+      \strng{authorfullhash}{b9da70a1cb966b2477671d05498b40ec}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{journaltitle}{Sustainability}
+      \field{month}{11}
+      \field{number}{22}
+      \field{title}{Solar Irradiance Probabilistic Forecasting UsingMachine Learning, Metaheuristic Models and NumericalWeather Predictions}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.3390/su142215260
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2071-1050/14/22/15260
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2071-1050/14/22/15260
+      \endverb
+    \endentry
     \entry{Sehrawat2023}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=7a5cfc89b09e1fbc0b6873e4333b461b}{%
@@ -1924,6 +2415,60 @@
       \verb https://www.tijd.be/netto/dossiers/uw-geld-in-2023/wat-betekent-het-nieuwe-piektarief-voor-uw-stroomfactuur/10434556.html
       \endverb
     \endentry
+    \entry{Struckov2019}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c101881d36515e5b9af7edc67940aa83}{%
+           family={Struckov},
+           familyi={S\bibinitperiod},
+           given={Alexey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a6db1f0ec0c769cc58a6b5c77787329}{%
+           family={Yufa},
+           familyi={Y\bibinitperiod},
+           given={Semen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=735b34c143a7e92b0fa8066b87ba1eb0}{%
+           family={Visheratin},
+           familyi={V\bibinitperiod},
+           given={Alexander\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20d5ed5d78ac701d1b6a87169049e63c}{%
+           family={Nasonov},
+           familyi={N\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{261207357329efddc56b7e74d1b65ac8}
+      \strng{fullhash}{b1e8c58cbeef3db1e83db272ccf52210}
+      \strng{bibnamehash}{b1e8c58cbeef3db1e83db272ccf52210}
+      \strng{authorbibnamehash}{b1e8c58cbeef3db1e83db272ccf52210}
+      \strng{authornamehash}{261207357329efddc56b7e74d1b65ac8}
+      \strng{authorfullhash}{b1e8c58cbeef3db1e83db272ccf52210}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{title}{Evaluation of modern tools and techniques for storing time-series data}
+      \field{volume}{156}
+      \field{year}{2019}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.procs.2019.08.125
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050919310439
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877050919310439
+      \endverb
+    \endentry
     \entry{Tercha2024}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=72f908e0d5f7976d5197fc23ff5ab682}{%
@@ -2062,48 +2607,6 @@
       \verb https://www.sciencedirect.com/science/article/pii/S2352467723002643
       \endverb
     \endentry
-    \entry{Verdoodt2018}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6f7367ea1b97e38205d5d44b71ceff04}{%
-           family={Verdoodt},
-           familyi={V\bibinitperiod},
-           given={Björn},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{6f7367ea1b97e38205d5d44b71ceff04}
-      \strng{fullhash}{6f7367ea1b97e38205d5d44b71ceff04}
-      \strng{bibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
-      \strng{authorbibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
-      \strng{authornamehash}{6f7367ea1b97e38205d5d44b71ceff04}
-      \strng{authorfullhash}{6f7367ea1b97e38205d5d44b71ceff04}
-      \field{extraname}{1}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{13}
-      \field{month}{9}
-      \field{title}{Fluviuslanceert testlabo’s voor digitale meters}
-      \field{urlday}{14}
-      \field{urlmonth}{5}
-      \field{urlyear}{2023}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb :Literatuurstudie/2018 09 13 - Fluvius lanceert testlabo’s voor digitale meters .pdf:PDF
-      \endverb
-      \verb{urlraw}
-      \verb https://pers.fluvius.be/fluvius-lanceert-testlabos-voor-digitale-meters
-      \endverb
-      \verb{url}
-      \verb https://pers.fluvius.be/fluvius-lanceert-testlabos-voor-digitale-meters
-      \endverb
-    \endentry
     \entry{Verdoodt2022}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6f7367ea1b97e38205d5d44b71ceff04}{%
@@ -2122,7 +2625,6 @@
       \strng{authorbibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
       \strng{authornamehash}{6f7367ea1b97e38205d5d44b71ceff04}
       \strng{authorfullhash}{6f7367ea1b97e38205d5d44b71ceff04}
-      \field{extraname}{2}
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{extradatescope}{labelyear}
@@ -2343,12 +2845,8 @@
     \endentry
   \enddatalist
   \missing{Allardice}
-  \missing{Balis2017}
-  \missing{BarreraAnimas2022}
   \missing{Firtman2022}
-  \missing{Guo2022}
   \missing{Jong2020}
-  \missing{Struckov2019}
   \missing{Uytterhoeven2019}
 \endrefsection
 \endinput

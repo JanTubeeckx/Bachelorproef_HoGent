@@ -12,5 +12,13 @@
 \contentsline {figure}{\numberline {2.5}{\ignorespaces Grafische voorstelling van de structuur van het XGBoost algoritme.}}{14}{figure.caption.13}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Testopstelling: Raspberry Pi 5 via een RS422 serieel naar USB kabel aangesloten op een digitale elektriciteitsmeter.}}{20}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Omvormer van de zonnepanelen met een wifi-stick.}}{21}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Script voor het opvragen van de zonnestralingsdata.}}{23}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Script voor het opvragen van de weerdata.}}{24}{figure.caption.17}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Heatmap van correlaties tussen de verschillende kenmerken van de dataset.}}{25}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Screenshot van de Python code voor het aanmaken van features en lags.}}{26}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Screenshot dagweergave.}}{27}{figure.caption.20}%
+\addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsfinish 
