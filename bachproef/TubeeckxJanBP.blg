@@ -1,24 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'TubeeckxJanBP.blg'
-[29] biber-darwin:340> INFO - === Sun May  5, 2024, 22:27:54
-[36] Biber.pm:419> INFO - Reading 'TubeeckxJanBP.bcf'
-[79] Biber.pm:979> INFO - Found 30 citekeys in bib section 0
-[89] Biber.pm:4419> INFO - Processing section 0
-[93] Biber.pm:4610> INFO - Looking for bibtex file 'bachproef.bib' for section 0
-[94] bibtex.pm:1713> INFO - LaTeX decoding ...
-[109] bibtex.pm:1519> INFO - Found BibTeX data source 'bachproef.bib'
-[215] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[215] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[215] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
-[215] Biber.pm:4245> INFO - No sort tailoring available for locale 'nl-NL'
-[247] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[247] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[247] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
-[247] Biber.pm:4245> INFO - No sort tailoring available for locale 'nl-NL'
-[271] bbl.pm:660> INFO - Writing 'TubeeckxJanBP.bbl' with encoding 'UTF-8'
-[299] bbl.pm:763> INFO - Output to TubeeckxJanBP.bbl
-[299] Biber.pm:131> WARN - I didn't find a database entry for 'Allardice' (section 0)
-[299] Biber.pm:131> WARN - I didn't find a database entry for 'Firtman2022' (section 0)
-[299] Biber.pm:131> WARN - I didn't find a database entry for 'Uytterhoeven2019' (section 0)
-[299] Biber.pm:131> WARN - I didn't find a database entry for 'Jong2020' (section 0)
-[299] Biber.pm:133> INFO - WARNINGS: 4
+[29] biber-darwin:340> INFO - === Tue May  7, 2024, 22:17:49
+[37] Biber.pm:419> INFO - Reading 'TubeeckxJanBP.bcf'
+[82] Biber.pm:979> INFO - Found 34 citekeys in bib section 0
+[92] Biber.pm:4419> INFO - Processing section 0
+[96] Biber.pm:4610> INFO - Looking for bibtex file 'bachproef.bib' for section 0
+[98] bibtex.pm:1713> INFO - LaTeX decoding ...
+[115] bibtex.pm:1519> INFO - Found BibTeX data source 'bachproef.bib'
+[254] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[254] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[254] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[254] Biber.pm:4245> INFO - No sort tailoring available for locale 'nl-NL'
+[295] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[295] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[295] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[295] Biber.pm:4245> INFO - No sort tailoring available for locale 'nl-NL'
+[325] bbl.pm:660> INFO - Writing 'TubeeckxJanBP.bbl' with encoding 'UTF-8'
+[361] bbl.pm:763> INFO - Output to TubeeckxJanBP.bbl

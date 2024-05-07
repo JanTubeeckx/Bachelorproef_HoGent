@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.24)  5 MAY 2024 22:27
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.24)  7 MAY 2024 22:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1826,7 +1826,11 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'dutch'.
 
-(./TubeeckxJanBP.aux)
+(./TubeeckxJanBP.aux
+
+LaTeX Warning: Label `fig:Evolutie_PV' multiply defined.
+
+)
 \openout1 = `TubeeckxJanBP.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
@@ -1851,8 +1855,7 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
 LaTeX Font Info:    ... okay on input line 63.
 Package biblatex Info: Trying to load language 'dutch' -> 'dutch-apa'...
 Package biblatex Info: ... file 'dutch-apa.lbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/dutch-apa.lbx
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/dutch-apa.lbx
 File: dutch-apa.lbx 2023/03/20 v9.17 APA biblatex localisation
 Package biblatex Info: Trying to load language 'dutch'...
 Package biblatex Info: ... file 'dutch.lbx' found.
@@ -1875,36 +1878,7 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'TubeeckxJanBP.bbl' found.
 
-(./TubeeckxJanBP.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Allardice
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Firtman2022
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Jong2020
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Uytterhoeven2019
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+(./TubeeckxJanBP.bbl)
 Package biblatex Info: Reference section=0 on input line 63.
 Package biblatex Info: Reference segment=0 on input line 63.
 Package caption Info: Begin \AtBeginDocument code.
@@ -2094,6 +2068,12 @@ LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
 Overfull \hbox (12.83116pt too wide) in paragraph at lines 6--6
  [][] [][][]\TU/Montserrat(1)/m/n/10.95 Verwachte evolutie van de elektrificati
 e van zwaar vrachtvervoer in Vlaan- 
+ []
+
+
+Overfull \hbox (6.08229pt too wide) in paragraph at lines 27--27
+ [][] [][][]\TU/Montserrat(1)/m/n/10.95 Verwachte evolutie voor de elektrificat
+ie zwaar vrachtvervoer (Verdoodt, 
  []
 
 )
@@ -2287,28 +2267,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--153
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+
+ []
+
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--170
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
-
- []
-
-[16]
 Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+Overfull \hbox (1.16696pt too wide) in paragraph at lines 177--178
+\TU/Montserrat(1)/m/n/10.95 data aan. Voor de historische weerdata werd [][]Met
+eostat[][] gekozen. Deze open-source
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
 ) (./methodologie.tex
-Overfull \hbox (5.94357pt too wide) in paragraph at lines 175--4
+Overfull \hbox (5.94357pt too wide) in paragraph at lines 179--4
 \TU/Montserrat(1)/m/n/10.95 ook samen met verschillende nationale meteorologisc
 he diensten en biedt betrouw-
  []
@@ -2399,57 +2395,174 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--87
  []
 
 [24]
-
-LaTeX Warning: Citation 'Allardice' on page 25 undefined on input line 88.
-
-
-LaTeX Warning: Citation 'Firtman2022' on page 25 undefined on input line 88.
-
 File: ../graphics/correlatie.png Graphic file (type bmp)
 <../graphics/correlatie.png>
+ [25]
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
 File: ../graphics/Features_Lags.png Graphic file (type bmp)
 <../graphics/Features_Lags.png>
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Overfull \hbox (40.1441pt too wide) in paragraph at lines 106--107
+\TU/Montserrat(1)/m/n/10.95 zoek geopteerd voor de ontwikkeling van een mobiele
+ app om de elektriciteitsconsumptie-
+ []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+[26]
 File: ../graphics/Iphone_Dag.png Graphic file (type bmp)
 <../graphics/Iphone_Dag.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Citation 'Uytterhoeven2019' on page 25 undefined on input line 1
-12.
-
-[25]
-
-LaTeX Warning: Citation 'Jong2020' on page 26 undefined on input line 114.
-
-[26] [27]
+ [27] [28]
 Hoofdstuk 5.
-) [28
+) [29
 
 ]
 B\ij lage A.
-[29
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+
+Overfull \hbox (0.57832pt too wide) in paragraph at lines 143--144
+\TU/Montserrat(1)/m/n/10.95 teel bestaan, welke functies ze bieden en wat hun t
+ekortkomingen zijn. De []Vlaamse
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+[30
+
+] (../voorstel/TubeeckxJan2023RM.tex
+File: ../graphics/Elektrificatie_Personenvoertuigen.png Graphic file (type bmp)
+
+<../graphics/Elektrificatie_Personenvoertuigen.png>
+
+Overfull \hbox (28.14732pt too wide) in paragraph at lines 47--49
+ [][] 
+ []
+
+File: ../graphics/Evolutie_Warmtepomp.png Graphic file (type bmp)
+<../graphics/Evolutie_Warmtepomp.png>
+
+Overfull \hbox (27.14357pt too wide) in paragraph at lines 53--55
+ [][] 
+ []
+
+File: ../graphics/Evolutie_PV.png Graphic file (type bmp)
+<../graphics/Evolutie_PV.png>
+
+Overfull \hbox (28.14732pt too wide) in paragraph at lines 59--60
+ [][] 
+ []
+
+File: ../graphics/Elektrificatie_Vrachtvervoer.png Graphic file (type bmp)
+<../graphics/Elektrificatie_Vrachtvervoer.png>
+
+Overfull \hbox (27.64543pt too wide) in paragraph at lines 64--66
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+[31] [32]
+Overfull \hbox (3.05157pt too wide) in paragraph at lines 71--72
+\TU/Montserrat(1)/m/n/10.95 hun elektriciteitsverbruik. Kunnen apps die het ele
+ktriciteitsverbuik monitoren slim-
+ []
+
+[33]
+Overfull \hbox (6.62613pt too wide) in paragraph at lines 76--77
+\TU/Montserrat(1)/m/n/10.95 Met een digitale elektriciteitsmeter kunnen gezinne
+n hun elektriciteitsverbruik mak-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+[35] [36]
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+[37
 
 ]
-Overfull \hbox (10.92058pt too wide) in paragraph at lines 158--158
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
+
+ []
+
+[38]) [39]
+Overfull \hbox (10.92058pt too wide) in paragraph at lines 162--162
 \TU/Montserrat(1)/m/n/10.95 demand response scheme for IoT enabled PVintegrated
  smart building. \TU/Montserrat(2)/m/it/10.95 Sustai-
  []
 
 
-Overfull \hbox (3.35928pt too wide) in paragraph at lines 158--158
+Overfull \hbox (3.35928pt too wide) in paragraph at lines 162--162
 [][][] [][] [][][][][][][][] [][] [][][][][] [][] [][][][] [] [] [] [] [] [][][
 ][] [] [][] [] [][][][][][][][][] [] [][][][][] [] [][][][][][][][][][][][][][]
 [] []
  []
 
-[30
+[40
 
 
-] [31] [32] (./TubeeckxJanBP.aux)
+] [41] [42] [43] (./TubeeckxJanBP.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -2458,19 +2571,22 @@ L3 programming layer <2024-02-20>
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `TubeeckxJanBP.out' has not changed.
-(rerunfilecheck)             Checksum: D0FF44EEBC5E1E362BDA1483555B45E8;5065.
+(rerunfilecheck)             Checksum: 78F81A37E38A4F0098D786D2C5F9AD19;5577.
 Package logreq Info: Writing requests to 'TubeeckxJanBP.run.xml'.
 \openout1 = `TubeeckxJanBP.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46194 strings out of 474773
- 925303 string characters out of 5757724
- 2047574 words of memory out of 5000000
- 67615 multiletter control sequences out of 15000+600000
+ 46303 strings out of 474773
+ 928611 string characters out of 5757724
+ 2049583 words of memory out of 5000000
+ 67720 multiletter control sequences out of 15000+600000
  561073 words of font info for 101 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
- 110i,12n,140p,2300b,7230s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,12n,140p,2300b,7232s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on TubeeckxJanBP.pdf (38 pages).
+Output written on TubeeckxJanBP.pdf (49 pages).

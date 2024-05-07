@@ -38,8 +38,12 @@
 \contentsline {subsubsection}{Weerdata}{23}{figure.caption.16}%
 \contentsline {subsubsection}{Voorspelling met XGBoost}{25}{figure.caption.17}%
 \contentsline {subsection}{\numberline {4.1.4}Weergave uitgelezen data en voorspelling met een iOS app}{26}{subsection.4.1.4}%
-\contentsline {subsection}{\numberline {4.1.5}Aansturing slimme stekkers op basis van voorspelde stroomproductie}{26}{subsection.4.1.5}%
-\contentsline {chapter}{\numberline {5}Conclusie}{28}{chapter.5}%
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{29}{appendix.A}%
-\contentsline {chapter}{Bibliografie}{30}{appendix*.21}%
+\contentsline {subsection}{\numberline {4.1.5}Aansturing slimme stekkers op basis van voorspelde stroomproductie}{27}{subsection.4.1.5}%
+\contentsline {chapter}{\numberline {5}Conclusie}{29}{chapter.5}%
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{30}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Inleiding}{31}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Literatuurstudie}{34}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Methodologie}{37}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{38}{section.A.4}%
+\contentsline {chapter}{Bibliografie}{40}{appendix*.25}%
 \contentsfinish 

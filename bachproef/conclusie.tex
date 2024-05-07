@@ -83,14 +83,17 @@ Om de voorspelling van de stroomproductie van de zonnepanelen nog beter te maken
 
 \subsubsection{Voorspelling met XGBoost}
 
-Zeker heatmap met correlaties invoegen om zo de belangrijkste kenmerken, dit zijn de kenmerken met de grootste negatieve of positieve correlatie. \\
+Door het toenemend belang van hernieuwbare energie is er al heel wat onderzoek verricht naar het voorspellen van de elektriciteitsproductie van PV-systemen door toepassing van machine learning. Uit de meest recente onderzoeken blijkt dat Extreem Gradient Boosting (XGBoost) andere machine learning algoritmes overtreft bij het voorspellen van historische zonnestraling  \autocite{Ledmaoui2023}, \autocite{Wang2022} en \autocite{BarreraAnimas2022}. Om die reden wordt voor dit onderzoek gebruik gemaakt van XGBoost om de toekomstige zonnestraling en vervolgens de stroomproductie van zonnepanelen te voorspellen. \\
 
-Om de voorspellingen zo accuraat mogelijk te maken, zal gebruik gemaakt worden van het Extreme Gradient Boosting (XGBOOST) algoritme \autocite{Ledmaoui2023}, \autocite{Wang2022} en \autocite{BarreraAnimas2022}. De historische verbruiksdata, de productiedata van de omvormer van de zonnepanelen en de weerdata zullen als input gebruikt worden voor dit algoritme. De data van de digitale elekticiteitsmeter en de omvormer van de zonnepanelen wordt continue uitgelezen met een python script op een Raspberry Pi computer die via het wifi-netwerk verbonden is. Deze data wordt opgelsagen in een NoSQL-databank die speciaal voor time-series ontwikkeld is, nl. InfluxDB \autocite{Balis2017} en  \autocite{Struckov2019}. De app zal tenslotte ontwikkeld worden voor iOS en gebouwd worden met Xcode, SwiftUI en UIKit \autocite{Allardice} en \autocite{Firtman2022}.
+De dataset die als invoer voor het XGBoost algoritme gebruikt werd, is dus een combinatie van historische zonnestralingsdata en weerdata. Deze datset werd eerst gezuiverd van anomalieën door alle negatieve en ontbrekende waarden te verwijderen, anders zouden deze fouten de voorspelde waarden kunnen vertekenen. Na het opschonen van de data werden bestaande correlaties onderzocht. Hiervoor werd de Python library 'Seaborn' gebruikt, waarmee een heatmap van de correlaties tussen de verschillende kenmerken van de dataset kon worden opgemaakt. Daaruit blijkt inderdaad dat vooral de omgevingstemperatuur (positief) en luchtvochtigheid (negatief) het sterkst correleren met de globale horizontale instraling van de zon (GHI). 
 
 \begin{figure}[h!]
     \centering\includegraphics[scale=0.7]{correlatie}
     \caption{\label{fig:correlatie}Heatmap van correlaties tussen de verschillende kenmerken van de dataset.}
 \end{figure} 
+
+\newpage
+De historische zonnestralingsdata die gebruikt wordt, kan beschouwd worden als tijdreeksen (time-series) vermits de data geordend is volgens een tijdsindex. Om tijdreeksen te kunnen voorspellen, moeten deze eerst worden omgezet in 'supervised learning' problemen, van gewone reeksen naar paren van invoer en uitvoer reeksen. Door de omzetting naar een bepaalde invoer X en uitvoer y, kan een algoritme leren hoe de uitvoerpatronen uit de invoerpatronen kunnen voorspeld worden. De omzetting naar een  'supervised learning' probleem gebeurt door de toevoeging van zogenaamde features of numerieke kenmerken op basis van de datum van elk datapunt van de dataset die als invoer voor de voorspelling gebruikt wordt. \\
 
 \begin{figure}[h!]
     \centering\includegraphics[scale=0.6]{Features_Lags}
@@ -99,6 +102,8 @@ Om de voorspellingen zo accuraat mogelijk te maken, zal gebruik gemaakt worden v
 
 \subsection{\IfLanguageName{dutch}{Weergave uitgelezen data en voorspelling met een iOS app}{Display of data and prediction with an iOS app}}%
 \label{sec:Weergave uitgelezen data en voorspelling met een iOS app}
+
+Omdat een smartphone makkelijker en vaker consulteerbaar is, werd in dit onderzoek geopteerd voor de ontwikkeling van een mobiele app om de elektriciteitsconsumptie- en productie weer te geven en op te volgen. De app is ontwikkeld voor iOS omdat dit het testen vergemakkelijkt. De iOS-app werd gebouwd in de geïntegreerde ontwikkelomgeving (IDE) XCode met SwiftUI en UIKit. Voor documentatie en tutorials werd gebruik gemaakt van het \href{https://developer.apple.com/}{Apple developer platform}. \\
 
 \begin{figure}[h!]
     \centering\includegraphics[scale=0.4]{Iphone_Dag}

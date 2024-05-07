@@ -72,6 +72,86 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0959652618325551?via=ihub
       \endverb
     \endentry
+    \entry{Allardice}{online}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=6bfd8bffdf51fa600e309feaa44f4d7d}{%
+           family={Allardice},
+           familyi={A\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f1cf448e2776d98854178401a69e442}{%
+           family={Bancroft},
+           familyi={B\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=751d13546c2bd3978955f6856a846215}{%
+           family={Ferrone},
+           familyi={F\bibinitperiod},
+           given={Harrison},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa475b4e57de53da682cbfcc34b6c021}{%
+           family={Moeykens},
+           familyi={M\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2453a0c7ca3e602e83db2a8092aa165}{%
+           family={Nutter},
+           familyi={N\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03a03ea2e4d818552b58da1a826933d0}{%
+           family={Nyisztor},
+           familyi={N\bibinitperiod},
+           given={Karoly},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1cc9c3216eddd2c13017f79d5f3002e6}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Pluralsight}%
+      }
+      \strng{namehash}{dac5b61f54bc2c311512c4df74d864aa}
+      \strng{fullhash}{a3bd3ff2a7e9893de21f13b86415623c}
+      \strng{bibnamehash}{a3bd3ff2a7e9893de21f13b86415623c}
+      \strng{authorbibnamehash}{a3bd3ff2a7e9893de21f13b86415623c}
+      \strng{authornamehash}{dac5b61f54bc2c311512c4df74d864aa}
+      \strng{authorfullhash}{a3bd3ff2a7e9893de21f13b86415623c}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{month}{5}
+      \field{title}{iOS App Development - Fundamentals}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.pluralsight.com/paths/ios
+      \endverb
+      \verb{url}
+      \verb https://www.pluralsight.com/paths/ios
+      \endverb
+    \endentry
     \entry{Balakumar2023}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=0e6b2ce3cba4ab0ee3d3b267f5f6e186}{%
@@ -307,6 +387,52 @@
       \verb https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/
       \endverb
     \endentry
+    \entry{Jong2020}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ae89a15b21014af48799b4c830d30d23}{%
+           family={Jong},
+           familyi={J\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Hardware Info}%
+      }
+      \strng{namehash}{ae89a15b21014af48799b4c830d30d23}
+      \strng{fullhash}{ae89a15b21014af48799b4c830d30d23}
+      \strng{bibnamehash}{ae89a15b21014af48799b4c830d30d23}
+      \strng{authorbibnamehash}{ae89a15b21014af48799b4c830d30d23}
+      \strng{authornamehash}{ae89a15b21014af48799b4c830d30d23}
+      \strng{authorfullhash}{ae89a15b21014af48799b4c830d30d23}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{16}
+      \field{month}{5}
+      \field{title}{Upgrade je stopcontact: 15 slimme stekkers getest}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb :Jong2020 - Upgrade Je Stopcontact_ 15 Slimme Stekkers Getest.html:URL
+      \endverb
+      \verb{urlraw}
+      \verb https://be.hardware.info/artikel/9945/upgrade-je-stopcontact-15-slimme-stekkers-getest
+      \endverb
+      \verb{url}
+      \verb https://be.hardware.info/artikel/9945/upgrade-je-stopcontact-15-slimme-stekkers-getest
+      \endverb
+    \endentry
     \entry{Deman2021}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=26b750a1b1210c95de265264e817bd25}{%
@@ -430,6 +556,100 @@
       \endverb
       \verb{url}
       \verb https://towardsdatascience.com/reinforcement-learning-introduction-and-main-concepts-48ea997c850c
+      \endverb
+    \endentry
+    \entry{Firtman2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e7417e487a576b71d3ec4549ae871a1b}{%
+           family={Firtman},
+           familyi={F\bibinitperiod},
+           given={Maximiliano},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Frontend Masters}%
+      }
+      \strng{namehash}{e7417e487a576b71d3ec4549ae871a1b}
+      \strng{fullhash}{e7417e487a576b71d3ec4549ae871a1b}
+      \strng{bibnamehash}{e7417e487a576b71d3ec4549ae871a1b}
+      \strng{authorbibnamehash}{e7417e487a576b71d3ec4549ae871a1b}
+      \strng{authornamehash}{e7417e487a576b71d3ec4549ae871a1b}
+      \strng{authorfullhash}{e7417e487a576b71d3ec4549ae871a1b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{month}{11}
+      \field{title}{How to Choose the Right Mobile App Platform}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://frontendmasters.com/blog/choosing-mobile-platform/
+      \endverb
+      \verb{url}
+      \verb https://frontendmasters.com/blog/choosing-mobile-platform/
+      \endverb
+    \endentry
+    \entry{Guo2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f2282fdbab5fc17c423aef063cfaf767}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Zhifeng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ea0aa3bbea3e1f5d923309ca2ab36f6}{%
+           family={O'Hanley},
+           familyi={O\bibinitperiod},
+           given={Jesse\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b852cc28e834b19eb00c7479f4a0b1ec}{%
+           family={Gibson},
+           familyi={G\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{75062394e32983bb2025d556a644230d}
+      \strng{fullhash}{9e22665b55237c5ed2e0e464e5787431}
+      \strng{bibnamehash}{9e22665b55237c5ed2e0e464e5787431}
+      \strng{authorbibnamehash}{9e22665b55237c5ed2e0e464e5787431}
+      \strng{authornamehash}{75062394e32983bb2025d556a644230d}
+      \strng{authorfullhash}{9e22665b55237c5ed2e0e464e5787431}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Utilities Policy}
+      \field{month}{12}
+      \field{number}{101446}
+      \field{title}{Predicting residential electricity consumption patterns based on smart meter and household data: A case study from the Republic of Ireland}
+      \field{volume}{79}
+      \field{year}{2022}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jup.2022.101446
+      \endverb
+      \verb{file}
+      \verb :- (1).pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0957178722001102
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0957178722001102
       \endverb
     \endentry
     \entry{Irankhah2024}{article}{}
@@ -682,6 +902,51 @@
       \endverb
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/pii/S2352484723011228
+      \endverb
+    \endentry
+    \entry{Mack2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cc5855a80a46f6d124d493e01fc35cd8}{%
+           family={Mack},
+           familyi={M\bibinitperiod},
+           given={Birgit},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb1dcc3226f5040c00d3e90b5a1e7c90}{%
+           family={Tampe-Mai},
+           familyi={T\bibinithyphendelim M\bibinitperiod},
+           given={Karolin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0222234a9c1c3efc24e6ab89d17cf753}
+      \strng{fullhash}{0222234a9c1c3efc24e6ab89d17cf753}
+      \strng{bibnamehash}{0222234a9c1c3efc24e6ab89d17cf753}
+      \strng{authorbibnamehash}{0222234a9c1c3efc24e6ab89d17cf753}
+      \strng{authornamehash}{0222234a9c1c3efc24e6ab89d17cf753}
+      \strng{authorfullhash}{0222234a9c1c3efc24e6ab89d17cf753}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Utilities Policy}
+      \field{month}{10}
+      \field{title}{An action theory-based electricity saving web portal for households with an interface to smart meters}
+      \field{volume}{42}
+      \field{year}{2016}
+      \field{pages}{51\bibrangedash 63}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jup.2016.05.003
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0957178716301217
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0957178716301217
       \endverb
     \endentry
     \entry{Mack2019}{article}{}
@@ -1194,6 +1459,104 @@
       \verb https://www.sciencedirect.com/science/article/pii/S2352467723002643
       \endverb
     \endentry
+    \entry{Uytterhoeven2019}{online}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=aec50b50e774db2a734e28793914b073}{%
+           family={Uytterhoeven},
+           familyi={U\bibinitperiod},
+           given={Anke},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=650b2c9f4934f626350fee52188e12bc}{%
+           family={Arteconi},
+           familyi={A\bibinitperiod},
+           given={Alessia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bd7b90f5e4cccf2f43c1f70fd20025c}{%
+           family={Helsen},
+           familyi={H\bibinitperiod},
+           given={Lieve},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {KU Leuven}%
+      }
+      \strng{namehash}{734a0a18d6b082768f800451b0cae684}
+      \strng{fullhash}{a52aa50d2fe96bd8eb1d1286a9e34e1f}
+      \strng{bibnamehash}{a52aa50d2fe96bd8eb1d1286a9e34e1f}
+      \strng{authorbibnamehash}{a52aa50d2fe96bd8eb1d1286a9e34e1f}
+      \strng{authornamehash}{734a0a18d6b082768f800451b0cae684}
+      \strng{authorfullhash}{a52aa50d2fe96bd8eb1d1286a9e34e1f}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{month}{5}
+      \field{title}{De digitale meter en warmtepompen}
+      \field{urlday}{12}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb :Literatuurstudie/DigitaleMeter_WP_PV.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://lirias.kuleuven.be/retrieve/540231
+      \endverb
+      \verb{url}
+      \verb https://lirias.kuleuven.be/retrieve/540231
+      \endverb
+    \endentry
+    \entry{Verdoodt2018}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f7367ea1b97e38205d5d44b71ceff04}{%
+           family={Verdoodt},
+           familyi={V\bibinitperiod},
+           given={Björn},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{fullhash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{bibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authorbibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authornamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authorfullhash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \field{extraname}{1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{month}{9}
+      \field{title}{Fluviuslanceert testlabo’s voor digitale meters}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb :Literatuurstudie/2018 09 13 - Fluvius lanceert testlabo’s voor digitale meters .pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://pers.fluvius.be/fluvius-lanceert-testlabos-voor-digitale-meters
+      \endverb
+      \verb{url}
+      \verb https://pers.fluvius.be/fluvius-lanceert-testlabos-voor-digitale-meters
+      \endverb
+    \endentry
     \entry{Verdoodt2022}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6f7367ea1b97e38205d5d44b71ceff04}{%
@@ -1212,6 +1575,7 @@
       \strng{authorbibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
       \strng{authornamehash}{6f7367ea1b97e38205d5d44b71ceff04}
       \strng{authorfullhash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \field{extraname}{2}
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{extradatescope}{labelyear}
@@ -1429,6 +1793,35 @@
       \verb{doi}
       \verb https://doi.org/10.1016/j.erss.2018.08.018
       \endverb
+    \endentry
+    \entry{Wood2019}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e5d8afe6303232b44336979c318e0f6}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={Wendy},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {HarperCollins Holland}%
+      }
+      \strng{namehash}{1e5d8afe6303232b44336979c318e0f6}
+      \strng{fullhash}{1e5d8afe6303232b44336979c318e0f6}
+      \strng{bibnamehash}{1e5d8afe6303232b44336979c318e0f6}
+      \strng{authorbibnamehash}{1e5d8afe6303232b44336979c318e0f6}
+      \strng{authornamehash}{1e5d8afe6303232b44336979c318e0f6}
+      \strng{authorfullhash}{1e5d8afe6303232b44336979c318e0f6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9789402759068}
+      \field{title}{Gelukkig met gewoontes}
+      \field{year}{2019}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
@@ -1485,6 +1878,86 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0959652618325551?via=ihub
       \endverb
     \endentry
+    \entry{Allardice}{online}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=6bfd8bffdf51fa600e309feaa44f4d7d}{%
+           family={Allardice},
+           familyi={A\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f1cf448e2776d98854178401a69e442}{%
+           family={Bancroft},
+           familyi={B\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=751d13546c2bd3978955f6856a846215}{%
+           family={Ferrone},
+           familyi={F\bibinitperiod},
+           given={Harrison},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa475b4e57de53da682cbfcc34b6c021}{%
+           family={Moeykens},
+           familyi={M\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2453a0c7ca3e602e83db2a8092aa165}{%
+           family={Nutter},
+           familyi={N\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03a03ea2e4d818552b58da1a826933d0}{%
+           family={Nyisztor},
+           familyi={N\bibinitperiod},
+           given={Karoly},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1cc9c3216eddd2c13017f79d5f3002e6}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Pluralsight}%
+      }
+      \strng{namehash}{dac5b61f54bc2c311512c4df74d864aa}
+      \strng{fullhash}{a3bd3ff2a7e9893de21f13b86415623c}
+      \strng{bibnamehash}{a3bd3ff2a7e9893de21f13b86415623c}
+      \strng{authorbibnamehash}{a3bd3ff2a7e9893de21f13b86415623c}
+      \strng{authornamehash}{dac5b61f54bc2c311512c4df74d864aa}
+      \strng{authorfullhash}{a3bd3ff2a7e9893de21f13b86415623c}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{month}{5}
+      \field{title}{iOS App Development - Fundamentals}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.pluralsight.com/paths/ios
+      \endverb
+      \verb{url}
+      \verb https://www.pluralsight.com/paths/ios
+      \endverb
+    \endentry
     \entry{Balakumar2023}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=0e6b2ce3cba4ab0ee3d3b267f5f6e186}{%
@@ -1720,6 +2193,52 @@
       \verb https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/
       \endverb
     \endentry
+    \entry{Jong2020}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ae89a15b21014af48799b4c830d30d23}{%
+           family={Jong},
+           familyi={J\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Hardware Info}%
+      }
+      \strng{namehash}{ae89a15b21014af48799b4c830d30d23}
+      \strng{fullhash}{ae89a15b21014af48799b4c830d30d23}
+      \strng{bibnamehash}{ae89a15b21014af48799b4c830d30d23}
+      \strng{authorbibnamehash}{ae89a15b21014af48799b4c830d30d23}
+      \strng{authornamehash}{ae89a15b21014af48799b4c830d30d23}
+      \strng{authorfullhash}{ae89a15b21014af48799b4c830d30d23}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{16}
+      \field{month}{5}
+      \field{title}{Upgrade je stopcontact: 15 slimme stekkers getest}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb :Jong2020 - Upgrade Je Stopcontact_ 15 Slimme Stekkers Getest.html:URL
+      \endverb
+      \verb{urlraw}
+      \verb https://be.hardware.info/artikel/9945/upgrade-je-stopcontact-15-slimme-stekkers-getest
+      \endverb
+      \verb{url}
+      \verb https://be.hardware.info/artikel/9945/upgrade-je-stopcontact-15-slimme-stekkers-getest
+      \endverb
+    \endentry
     \entry{Deman2021}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=26b750a1b1210c95de265264e817bd25}{%
@@ -1843,6 +2362,100 @@
       \endverb
       \verb{url}
       \verb https://towardsdatascience.com/reinforcement-learning-introduction-and-main-concepts-48ea997c850c
+      \endverb
+    \endentry
+    \entry{Firtman2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e7417e487a576b71d3ec4549ae871a1b}{%
+           family={Firtman},
+           familyi={F\bibinitperiod},
+           given={Maximiliano},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Frontend Masters}%
+      }
+      \strng{namehash}{e7417e487a576b71d3ec4549ae871a1b}
+      \strng{fullhash}{e7417e487a576b71d3ec4549ae871a1b}
+      \strng{bibnamehash}{e7417e487a576b71d3ec4549ae871a1b}
+      \strng{authorbibnamehash}{e7417e487a576b71d3ec4549ae871a1b}
+      \strng{authornamehash}{e7417e487a576b71d3ec4549ae871a1b}
+      \strng{authorfullhash}{e7417e487a576b71d3ec4549ae871a1b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{month}{11}
+      \field{title}{How to Choose the Right Mobile App Platform}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://frontendmasters.com/blog/choosing-mobile-platform/
+      \endverb
+      \verb{url}
+      \verb https://frontendmasters.com/blog/choosing-mobile-platform/
+      \endverb
+    \endentry
+    \entry{Guo2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f2282fdbab5fc17c423aef063cfaf767}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Zhifeng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ea0aa3bbea3e1f5d923309ca2ab36f6}{%
+           family={O'Hanley},
+           familyi={O\bibinitperiod},
+           given={Jesse\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b852cc28e834b19eb00c7479f4a0b1ec}{%
+           family={Gibson},
+           familyi={G\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{75062394e32983bb2025d556a644230d}
+      \strng{fullhash}{9e22665b55237c5ed2e0e464e5787431}
+      \strng{bibnamehash}{9e22665b55237c5ed2e0e464e5787431}
+      \strng{authorbibnamehash}{9e22665b55237c5ed2e0e464e5787431}
+      \strng{authornamehash}{75062394e32983bb2025d556a644230d}
+      \strng{authorfullhash}{9e22665b55237c5ed2e0e464e5787431}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Utilities Policy}
+      \field{month}{12}
+      \field{number}{101446}
+      \field{title}{Predicting residential electricity consumption patterns based on smart meter and household data: A case study from the Republic of Ireland}
+      \field{volume}{79}
+      \field{year}{2022}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jup.2022.101446
+      \endverb
+      \verb{file}
+      \verb :- (1).pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0957178722001102
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0957178722001102
       \endverb
     \endentry
     \entry{Irankhah2024}{article}{}
@@ -2095,6 +2708,51 @@
       \endverb
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/pii/S2352484723011228
+      \endverb
+    \endentry
+    \entry{Mack2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cc5855a80a46f6d124d493e01fc35cd8}{%
+           family={Mack},
+           familyi={M\bibinitperiod},
+           given={Birgit},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb1dcc3226f5040c00d3e90b5a1e7c90}{%
+           family={Tampe-Mai},
+           familyi={T\bibinithyphendelim M\bibinitperiod},
+           given={Karolin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0222234a9c1c3efc24e6ab89d17cf753}
+      \strng{fullhash}{0222234a9c1c3efc24e6ab89d17cf753}
+      \strng{bibnamehash}{0222234a9c1c3efc24e6ab89d17cf753}
+      \strng{authorbibnamehash}{0222234a9c1c3efc24e6ab89d17cf753}
+      \strng{authornamehash}{0222234a9c1c3efc24e6ab89d17cf753}
+      \strng{authorfullhash}{0222234a9c1c3efc24e6ab89d17cf753}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Utilities Policy}
+      \field{month}{10}
+      \field{title}{An action theory-based electricity saving web portal for households with an interface to smart meters}
+      \field{volume}{42}
+      \field{year}{2016}
+      \field{pages}{51\bibrangedash 63}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jup.2016.05.003
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0957178716301217
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0957178716301217
       \endverb
     \endentry
     \entry{Mack2019}{article}{}
@@ -2607,6 +3265,104 @@
       \verb https://www.sciencedirect.com/science/article/pii/S2352467723002643
       \endverb
     \endentry
+    \entry{Uytterhoeven2019}{online}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=aec50b50e774db2a734e28793914b073}{%
+           family={Uytterhoeven},
+           familyi={U\bibinitperiod},
+           given={Anke},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=650b2c9f4934f626350fee52188e12bc}{%
+           family={Arteconi},
+           familyi={A\bibinitperiod},
+           given={Alessia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bd7b90f5e4cccf2f43c1f70fd20025c}{%
+           family={Helsen},
+           familyi={H\bibinitperiod},
+           given={Lieve},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {KU Leuven}%
+      }
+      \strng{namehash}{734a0a18d6b082768f800451b0cae684}
+      \strng{fullhash}{a52aa50d2fe96bd8eb1d1286a9e34e1f}
+      \strng{bibnamehash}{a52aa50d2fe96bd8eb1d1286a9e34e1f}
+      \strng{authorbibnamehash}{a52aa50d2fe96bd8eb1d1286a9e34e1f}
+      \strng{authornamehash}{734a0a18d6b082768f800451b0cae684}
+      \strng{authorfullhash}{a52aa50d2fe96bd8eb1d1286a9e34e1f}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{month}{5}
+      \field{title}{De digitale meter en warmtepompen}
+      \field{urlday}{12}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb :Literatuurstudie/DigitaleMeter_WP_PV.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://lirias.kuleuven.be/retrieve/540231
+      \endverb
+      \verb{url}
+      \verb https://lirias.kuleuven.be/retrieve/540231
+      \endverb
+    \endentry
+    \entry{Verdoodt2018}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f7367ea1b97e38205d5d44b71ceff04}{%
+           family={Verdoodt},
+           familyi={V\bibinitperiod},
+           given={Björn},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{fullhash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{bibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authorbibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authornamehash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \strng{authorfullhash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \field{extraname}{1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{month}{9}
+      \field{title}{Fluviuslanceert testlabo’s voor digitale meters}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb :Literatuurstudie/2018 09 13 - Fluvius lanceert testlabo’s voor digitale meters .pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://pers.fluvius.be/fluvius-lanceert-testlabos-voor-digitale-meters
+      \endverb
+      \verb{url}
+      \verb https://pers.fluvius.be/fluvius-lanceert-testlabos-voor-digitale-meters
+      \endverb
+    \endentry
     \entry{Verdoodt2022}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6f7367ea1b97e38205d5d44b71ceff04}{%
@@ -2625,6 +3381,7 @@
       \strng{authorbibnamehash}{6f7367ea1b97e38205d5d44b71ceff04}
       \strng{authornamehash}{6f7367ea1b97e38205d5d44b71ceff04}
       \strng{authorfullhash}{6f7367ea1b97e38205d5d44b71ceff04}
+      \field{extraname}{2}
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{extradatescope}{labelyear}
@@ -2843,11 +3600,36 @@
       \verb https://doi.org/10.1016/j.erss.2018.08.018
       \endverb
     \endentry
+    \entry{Wood2019}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e5d8afe6303232b44336979c318e0f6}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={Wendy},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {HarperCollins Holland}%
+      }
+      \strng{namehash}{1e5d8afe6303232b44336979c318e0f6}
+      \strng{fullhash}{1e5d8afe6303232b44336979c318e0f6}
+      \strng{bibnamehash}{1e5d8afe6303232b44336979c318e0f6}
+      \strng{authorbibnamehash}{1e5d8afe6303232b44336979c318e0f6}
+      \strng{authornamehash}{1e5d8afe6303232b44336979c318e0f6}
+      \strng{authorfullhash}{1e5d8afe6303232b44336979c318e0f6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9789402759068}
+      \field{title}{Gelukkig met gewoontes}
+      \field{year}{2019}
+    \endentry
   \enddatalist
-  \missing{Allardice}
-  \missing{Firtman2022}
-  \missing{Jong2020}
-  \missing{Uytterhoeven2019}
 \endrefsection
 \endinput
 
