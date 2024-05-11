@@ -652,54 +652,6 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0957178722001102
       \endverb
     \endentry
-    \entry{Irankhah2024}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=e9e8451457b38b9b303a88ed7f0be494}{%
-           family={Irankhah},
-           familyi={I\bibinitperiod},
-           given={Arghavan},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fb64734fb5f24b00b15cf70718e92f2b}{%
-           family={Yaghmaee},
-           familyi={Y\bibinitperiod},
-           given={Mohammad\bibnamedelima Hossein},
-           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e0d8daa210dbb73224b90eb79a18e2b9}{%
-           family={Ershadi-Nasab},
-           familyi={E\bibinithyphendelim N\bibinitperiod},
-           given={Sara},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{12d011584494bf61f3db97aee4bce3ad}
-      \strng{fullhash}{ec630a2b6e078f351322e1231f89c56b}
-      \strng{bibnamehash}{ec630a2b6e078f351322e1231f89c56b}
-      \strng{authorbibnamehash}{ec630a2b6e078f351322e1231f89c56b}
-      \strng{authornamehash}{12d011584494bf61f3db97aee4bce3ad}
-      \strng{authorfullhash}{ec630a2b6e078f351322e1231f89c56b}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Building Engineering}
-      \field{month}{1}
-      \field{title}{Optimized short-term load forecasting in residential buildingsbased on deep learning methods for different time horizons}
-      \field{year}{2024}
-      \verb{doi}
-      \verb https://doi.org/10.1016/j.jobe.2024.108505
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S235271022400072X?via=ihub
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S235271022400072X?via=ihub
-      \endverb
-    \endentry
     \entry{Jensen2023}{article}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=7c076945c4cdb4d1a641fc37ac747290}{%
@@ -770,6 +722,57 @@
       \verb https://doi.org/10.1016/j.solener.2023.112092
       \endverb
     \endentry
+    \entry{Kazem2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1e911b2f1dc7ec47bb275807b20841b2}{%
+           family={Kazem},
+           familyi={K\bibinitperiod},
+           given={Hussein\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d31d5bab7745c3ba4f317981212891cc}{%
+           family={Yousif},
+           familyi={Y\bibinitperiod},
+           given={Jabar\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a82cf97d8f0567f2deffde314fab7797}
+      \strng{fullhash}{a82cf97d8f0567f2deffde314fab7797}
+      \strng{bibnamehash}{a82cf97d8f0567f2deffde314fab7797}
+      \strng{authorbibnamehash}{a82cf97d8f0567f2deffde314fab7797}
+      \strng{authornamehash}{a82cf97d8f0567f2deffde314fab7797}
+      \strng{authorfullhash}{a82cf97d8f0567f2deffde314fab7797}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{journaltitle}{Energy Conversion and Management}
+      \field{month}{9}
+      \field{title}{Comparison of prediction methods of photovoltaic power system production using a measured dataset}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{148}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1070\bibrangedash 1081}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.enconman.2017.06.058
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0196890417306027
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0196890417306027
+      \endverb
+    \endentry
     \entry{Khasawneh2024}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=dc3724522a09c6cb09654638645ba9a4}{%
@@ -830,6 +833,49 @@
       \endverb
       \verb{url}
       \verb https://www.tandfonline.com/doi/epdf/10.1080/23311916.2024.2323818?needAccess=true
+      \endverb
+    \endentry
+    \entry{Konsman2023a}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=544de528fa6d4ec6bf757af212a72be3}{%
+           family={Konsman},
+           familyi={K\bibinitperiod},
+           given={Mente},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b71dee7d9cbacfe3ef281b969b8dfee9}{%
+           family={Werkman},
+           familyi={W\bibinitperiod},
+           given={Ewoud},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Flexiblepower Alliance Network}%
+      }
+      \strng{namehash}{984ec803d0bc3f334a8d587bb8ae7779}
+      \strng{fullhash}{984ec803d0bc3f334a8d587bb8ae7779}
+      \strng{bibnamehash}{984ec803d0bc3f334a8d587bb8ae7779}
+      \strng{authorbibnamehash}{984ec803d0bc3f334a8d587bb8ae7779}
+      \strng{authornamehash}{984ec803d0bc3f334a8d587bb8ae7779}
+      \strng{authorfullhash}{984ec803d0bc3f334a8d587bb8ae7779}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{9}
+      \field{title}{S2 White paper}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://s2standard.org/
+      \endverb
+      \verb{url}
+      \verb https://s2standard.org/
       \endverb
     \endentry
     \entry{Ledmaoui2023}{article}{}
@@ -1016,6 +1062,58 @@
       \endverb
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/abs/pii/S2214629618308387
+      \endverb
+    \endentry
+    \entry{Nabatchian2024}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=52abd416ac38b4e5dbfb8b8a2379cf14}{%
+           family={Nabatchian},
+           familyi={N\bibinitperiod},
+           given={Ehsan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=87f8a6ab85c9ced3702b4ea641ad4bb5}{%
+           family={Medium},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{52abd416ac38b4e5dbfb8b8a2379cf14}
+      \strng{fullhash}{52abd416ac38b4e5dbfb8b8a2379cf14}
+      \strng{bibnamehash}{52abd416ac38b4e5dbfb8b8a2379cf14}
+      \strng{authorbibnamehash}{52abd416ac38b4e5dbfb8b8a2379cf14}
+      \strng{authornamehash}{52abd416ac38b4e5dbfb8b8a2379cf14}
+      \strng{authorfullhash}{52abd416ac38b4e5dbfb8b8a2379cf14}
+      \strng{editorbibnamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editornamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editorfullhash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{month}{1}
+      \field{title}{Exploring Time Series Prediction of Energy Consumption Using XGBoost and Cross Validation}
+      \field{urlday}{8}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/@ethannabatchian/exploring-time-series-prediction-of-energy-consumption-using-xgboost-and-cross-validation-5d299655bec6
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@ethannabatchian/exploring-time-series-prediction-of-energy-consumption-using-xgboost-and-cross-validation-5d299655bec6
       \endverb
     \endentry
     \entry{Sahai2023}{online}{}
@@ -1265,6 +1363,55 @@
       \endverb
       \verb{url}
       \verb https://www.tijd.be/netto/dossiers/uw-geld-in-2023/wat-betekent-het-nieuwe-piektarief-voor-uw-stroomfactuur/10434556.html
+      \endverb
+    \endentry
+    \entry{Shokrzad2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fca5c50f942451679fd26cc84e9120d7}{%
+           family={Shokrzad},
+           familyi={S\bibinitperiod},
+           given={Reza},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=87f8a6ab85c9ced3702b4ea641ad4bb5}{%
+           family={Medium},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{fca5c50f942451679fd26cc84e9120d7}
+      \strng{fullhash}{fca5c50f942451679fd26cc84e9120d7}
+      \strng{bibnamehash}{fca5c50f942451679fd26cc84e9120d7}
+      \strng{authorbibnamehash}{fca5c50f942451679fd26cc84e9120d7}
+      \strng{authornamehash}{fca5c50f942451679fd26cc84e9120d7}
+      \strng{authorfullhash}{fca5c50f942451679fd26cc84e9120d7}
+      \strng{editorbibnamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editornamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editorfullhash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{month}{10}
+      \field{title}{Flask vs Django: Deciphering the Best Fit for Your ML Deployment}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/@reza.shokrzad/flask-vs-django-deciphering-the-best-fit-for-your-ml-deployment-c536dd457a4e
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@reza.shokrzad/flask-vs-django-deciphering-the-best-fit-for-your-ml-deployment-c536dd457a4e
       \endverb
     \endentry
     \entry{Struckov2019}{article}{}
@@ -2458,54 +2605,6 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0957178722001102
       \endverb
     \endentry
-    \entry{Irankhah2024}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=e9e8451457b38b9b303a88ed7f0be494}{%
-           family={Irankhah},
-           familyi={I\bibinitperiod},
-           given={Arghavan},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fb64734fb5f24b00b15cf70718e92f2b}{%
-           family={Yaghmaee},
-           familyi={Y\bibinitperiod},
-           given={Mohammad\bibnamedelima Hossein},
-           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e0d8daa210dbb73224b90eb79a18e2b9}{%
-           family={Ershadi-Nasab},
-           familyi={E\bibinithyphendelim N\bibinitperiod},
-           given={Sara},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{12d011584494bf61f3db97aee4bce3ad}
-      \strng{fullhash}{ec630a2b6e078f351322e1231f89c56b}
-      \strng{bibnamehash}{ec630a2b6e078f351322e1231f89c56b}
-      \strng{authorbibnamehash}{ec630a2b6e078f351322e1231f89c56b}
-      \strng{authornamehash}{12d011584494bf61f3db97aee4bce3ad}
-      \strng{authorfullhash}{ec630a2b6e078f351322e1231f89c56b}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Building Engineering}
-      \field{month}{1}
-      \field{title}{Optimized short-term load forecasting in residential buildingsbased on deep learning methods for different time horizons}
-      \field{year}{2024}
-      \verb{doi}
-      \verb https://doi.org/10.1016/j.jobe.2024.108505
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S235271022400072X?via=ihub
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S235271022400072X?via=ihub
-      \endverb
-    \endentry
     \entry{Jensen2023}{article}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=7c076945c4cdb4d1a641fc37ac747290}{%
@@ -2576,6 +2675,57 @@
       \verb https://doi.org/10.1016/j.solener.2023.112092
       \endverb
     \endentry
+    \entry{Kazem2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1e911b2f1dc7ec47bb275807b20841b2}{%
+           family={Kazem},
+           familyi={K\bibinitperiod},
+           given={Hussein\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d31d5bab7745c3ba4f317981212891cc}{%
+           family={Yousif},
+           familyi={Y\bibinitperiod},
+           given={Jabar\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a82cf97d8f0567f2deffde314fab7797}
+      \strng{fullhash}{a82cf97d8f0567f2deffde314fab7797}
+      \strng{bibnamehash}{a82cf97d8f0567f2deffde314fab7797}
+      \strng{authorbibnamehash}{a82cf97d8f0567f2deffde314fab7797}
+      \strng{authornamehash}{a82cf97d8f0567f2deffde314fab7797}
+      \strng{authorfullhash}{a82cf97d8f0567f2deffde314fab7797}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{journaltitle}{Energy Conversion and Management}
+      \field{month}{9}
+      \field{title}{Comparison of prediction methods of photovoltaic power system production using a measured dataset}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{148}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1070\bibrangedash 1081}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.enconman.2017.06.058
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0196890417306027
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0196890417306027
+      \endverb
+    \endentry
     \entry{Khasawneh2024}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=dc3724522a09c6cb09654638645ba9a4}{%
@@ -2636,6 +2786,49 @@
       \endverb
       \verb{url}
       \verb https://www.tandfonline.com/doi/epdf/10.1080/23311916.2024.2323818?needAccess=true
+      \endverb
+    \endentry
+    \entry{Konsman2023a}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=544de528fa6d4ec6bf757af212a72be3}{%
+           family={Konsman},
+           familyi={K\bibinitperiod},
+           given={Mente},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b71dee7d9cbacfe3ef281b969b8dfee9}{%
+           family={Werkman},
+           familyi={W\bibinitperiod},
+           given={Ewoud},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Flexiblepower Alliance Network}%
+      }
+      \strng{namehash}{984ec803d0bc3f334a8d587bb8ae7779}
+      \strng{fullhash}{984ec803d0bc3f334a8d587bb8ae7779}
+      \strng{bibnamehash}{984ec803d0bc3f334a8d587bb8ae7779}
+      \strng{authorbibnamehash}{984ec803d0bc3f334a8d587bb8ae7779}
+      \strng{authornamehash}{984ec803d0bc3f334a8d587bb8ae7779}
+      \strng{authorfullhash}{984ec803d0bc3f334a8d587bb8ae7779}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{9}
+      \field{title}{S2 White paper}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://s2standard.org/
+      \endverb
+      \verb{url}
+      \verb https://s2standard.org/
       \endverb
     \endentry
     \entry{Ledmaoui2023}{article}{}
@@ -2822,6 +3015,58 @@
       \endverb
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/abs/pii/S2214629618308387
+      \endverb
+    \endentry
+    \entry{Nabatchian2024}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=52abd416ac38b4e5dbfb8b8a2379cf14}{%
+           family={Nabatchian},
+           familyi={N\bibinitperiod},
+           given={Ehsan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=87f8a6ab85c9ced3702b4ea641ad4bb5}{%
+           family={Medium},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{52abd416ac38b4e5dbfb8b8a2379cf14}
+      \strng{fullhash}{52abd416ac38b4e5dbfb8b8a2379cf14}
+      \strng{bibnamehash}{52abd416ac38b4e5dbfb8b8a2379cf14}
+      \strng{authorbibnamehash}{52abd416ac38b4e5dbfb8b8a2379cf14}
+      \strng{authornamehash}{52abd416ac38b4e5dbfb8b8a2379cf14}
+      \strng{authorfullhash}{52abd416ac38b4e5dbfb8b8a2379cf14}
+      \strng{editorbibnamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editornamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editorfullhash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{month}{1}
+      \field{title}{Exploring Time Series Prediction of Energy Consumption Using XGBoost and Cross Validation}
+      \field{urlday}{8}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/@ethannabatchian/exploring-time-series-prediction-of-energy-consumption-using-xgboost-and-cross-validation-5d299655bec6
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@ethannabatchian/exploring-time-series-prediction-of-energy-consumption-using-xgboost-and-cross-validation-5d299655bec6
       \endverb
     \endentry
     \entry{Sahai2023}{online}{}
@@ -3071,6 +3316,55 @@
       \endverb
       \verb{url}
       \verb https://www.tijd.be/netto/dossiers/uw-geld-in-2023/wat-betekent-het-nieuwe-piektarief-voor-uw-stroomfactuur/10434556.html
+      \endverb
+    \endentry
+    \entry{Shokrzad2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fca5c50f942451679fd26cc84e9120d7}{%
+           family={Shokrzad},
+           familyi={S\bibinitperiod},
+           given={Reza},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=87f8a6ab85c9ced3702b4ea641ad4bb5}{%
+           family={Medium},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{fca5c50f942451679fd26cc84e9120d7}
+      \strng{fullhash}{fca5c50f942451679fd26cc84e9120d7}
+      \strng{bibnamehash}{fca5c50f942451679fd26cc84e9120d7}
+      \strng{authorbibnamehash}{fca5c50f942451679fd26cc84e9120d7}
+      \strng{authornamehash}{fca5c50f942451679fd26cc84e9120d7}
+      \strng{authorfullhash}{fca5c50f942451679fd26cc84e9120d7}
+      \strng{editorbibnamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editornamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editorfullhash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{month}{10}
+      \field{title}{Flask vs Django: Deciphering the Best Fit for Your ML Deployment}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/@reza.shokrzad/flask-vs-django-deciphering-the-best-fit-for-your-ml-deployment-c536dd457a4e
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@reza.shokrzad/flask-vs-django-deciphering-the-best-fit-for-your-ml-deployment-c536dd457a4e
       \endverb
     \endentry
     \entry{Struckov2019}{article}{}

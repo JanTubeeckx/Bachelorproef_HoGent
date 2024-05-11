@@ -1,5 +1,5 @@
 \babel@toc {dutch}{}\relax 
-\contentsline {chapter}{L\ij st van figuren}{vi}{chapter*.4}%
+\contentsline {chapter}{L\ij st van figuren}{vii}{chapter*.4}%
 \contentsline {chapter}{\numberline {1}Inleiding}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Probleemstelling}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Onderzoeksvraag}{4}{section.1.2}%
@@ -26,24 +26,34 @@
 \contentsline {subsubsection}{R-squared (R²)}{15}{subsection.2.2.3}%
 \contentsline {section}{\numberline {2.3}Elektriciteitsproductie voorspellen}{15}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Zonnestraling}{16}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Meteorologische data}{16}{subsection.2.3.2}%
-\contentsline {chapter}{\numberline {3}Methodologie}{18}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Proof of Concept}{19}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Ontwikkeling van de mobiele app}{19}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Digitale elektriciteitsmeter uitlezen}{19}{subsection.4.1.1}%
-\contentsline {subsubsection}{Opslag uitgelezen elektriciteitsdata}{20}{figure.caption.14}%
-\contentsline {subsection}{\numberline {4.1.2}Omvormer zonnepanelen uitlezen}{20}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}Stroomproductie van zonnepanelen voorspellen met XGBoost}{21}{subsection.4.1.3}%
-\contentsline {subsubsection}{Historische zonnestralingsdata verzamelen}{22}{subsection.4.1.3}%
-\contentsline {subsubsection}{Weerdata}{23}{figure.caption.16}%
-\contentsline {subsubsection}{Voorspelling met XGBoost}{25}{figure.caption.17}%
-\contentsline {subsection}{\numberline {4.1.4}Weergave uitgelezen data en voorspelling met een iOS app}{26}{subsection.4.1.4}%
-\contentsline {subsection}{\numberline {4.1.5}Aansturing slimme stekkers op basis van voorspelde stroomproductie}{27}{subsection.4.1.5}%
-\contentsline {chapter}{\numberline {5}Conclusie}{29}{chapter.5}%
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{30}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Inleiding}{31}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Literatuurstudie}{34}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Methodologie}{37}{section.A.3}%
-\contentsline {section}{\numberline {A.4}Verwachte resultaten}{38}{section.A.4}%
-\contentsline {chapter}{Bibliografie}{40}{appendix*.25}%
+\contentsline {subsection}{\numberline {2.3.2}Meteorologische data}{17}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Slimme toestellen aansturen}{18}{section.2.4}%
+\contentsline {subsubsection}{Standaard communicatie protocol}{18}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Methodologie}{19}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Proof of Concept}{20}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Ontwikkeling van de mobiele app}{20}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Digitale elektriciteitsmeter uitlezen}{20}{subsection.4.1.1}%
+\contentsline {subsubsection}{Opslag uitgelezen elektriciteitsdata}{21}{figure.caption.14}%
+\contentsline {subsection}{\numberline {4.1.2}Omvormer zonnepanelen uitlezen}{21}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Stroomproductie van zonnepanelen voorspellen met XGBoost}{22}{subsection.4.1.3}%
+\contentsline {subsubsection}{Historische zonnestralingsdata verzamelen}{23}{subsection.4.1.3}%
+\contentsline {subsubsection}{Weerdata}{24}{figure.caption.16}%
+\contentsline {subsubsection}{Voorspelling met XGBoost}{26}{figure.caption.17}%
+\contentsline {subparagraph}{Data cleaning en correlaties}{26}{figure.caption.17}%
+\contentsline {subparagraph}{Toevoeging van features}{27}{figure.caption.18}%
+\contentsline {subparagraph}{Toevoeging van lag features}{27}{figure.caption.19}%
+\contentsline {subparagraph}{XGBoost model trainen en testen}{28}{figure.caption.19}%
+\contentsline {subparagraph}{Voorspelling van de zonnestraling}{29}{figure.caption.20}%
+\contentsline {subparagraph}{Omzetting voorspelde zonnestraling naar opgewekte stroom}{30}{figure.caption.21}%
+\contentsline {subsection}{\numberline {4.1.4}Weergave uitgelezen data en voorspelling met een iOS app}{31}{subsection.4.1.4}%
+\contentsline {subsubsection}{Elektriciteitsconsumptie en -productie}{31}{subsection.4.1.4}%
+\contentsline {subsubsection}{Voorspelling stroomproductie}{32}{figure.caption.24}%
+\contentsline {subsection}{\numberline {4.1.5}Aansturing slimme apparaten op basis van de voorspelde stroomproductie}{33}{subsection.4.1.5}%
+\contentsline {chapter}{\numberline {5}Conclusie}{36}{chapter.5}%
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{37}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Inleiding}{38}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Literatuurstudie}{41}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Methodologie}{44}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{45}{section.A.4}%
+\contentsline {chapter}{Bibliografie}{47}{appendix*.31}%
 \contentsfinish 

@@ -12,17 +12,21 @@
 \contentsline {figure}{\numberline {2.5}{\ignorespaces Grafische voorstelling van de structuur van het XGBoost algoritme.}}{14}{figure.caption.13}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Testopstelling: Raspberry Pi 5 via een RS422 serieel naar USB kabel aangesloten op een digitale elektriciteitsmeter.}}{20}{figure.caption.14}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Omvormer van de zonnepanelen met een wifi-stick.}}{21}{figure.caption.15}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Script voor het opvragen van de zonnestralingsdata.}}{23}{figure.caption.16}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Script voor het opvragen van de weerdata.}}{24}{figure.caption.17}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Heatmap van correlaties tussen de verschillende kenmerken van de dataset.}}{25}{figure.caption.18}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Screenshot van de Python code voor het aanmaken van features en lags.}}{26}{figure.caption.19}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Screenshot dagweergave.}}{27}{figure.caption.20}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Testopstelling: Raspberry Pi 5 via een RS422 serieel naar USB kabel aangesloten op een digitale elektriciteitsmeter.}}{21}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Omvormer van de zonnepanelen met een wifi-stick.}}{22}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Script voor het opvragen van de zonnestralingsdata.}}{24}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Script voor het opvragen van de weerdata.}}{25}{figure.caption.17}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Heatmap van correlaties tussen de verschillende kenmerken van de dataset.}}{26}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Screenshot van de Python code voor het aanmaken van features en lags.}}{27}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Grafische voorstelling van de TimeSerieSplit functie.}}{28}{figure.caption.20}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Screenshot van de Python code voor de voorspelling van de zonnestraling van de volgende dag.}}{29}{figure.caption.21}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Overzicht elektricteitsverbruik en -productie per dag en per week.}}{31}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Voorspelling van de stroomproductie en overzicht van de ingeschakelde apparaten.}}{33}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Screenshot van de Python code om de slimme stekker aan te sturen op basis van de voorspelde stroomproductie.}}{34}{figure.caption.26}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Verwachte evolutie van het aantal elektrische personenvoertuigen in Vlaanderen \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{31}{figure.caption.21}%
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Verwachte evolutie aandeel warmtepomp en -net bij residentiële verwarming \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{32}{figure.caption.22}%
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Verwachte evolutie PV (MWe) \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{32}{figure.caption.23}%
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Verwachte evolutie voor de elektrificatie zwaar vrachtvervoer \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{33}{figure.caption.24}%
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Verwachte evolutie van het aantal elektrische personenvoertuigen in Vlaanderen \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{38}{figure.caption.27}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Verwachte evolutie aandeel warmtepomp en -net bij residentiële verwarming \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{39}{figure.caption.28}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Verwachte evolutie PV (MWe) \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{39}{figure.caption.29}%
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Verwachte evolutie voor de elektrificatie zwaar vrachtvervoer \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{40}{figure.caption.30}%
 \contentsfinish 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.24)  7 MAY 2024 22:17
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.24)  10 MAY 2024 11:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2041,13 +2041,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
 ) [4
 
-] (./TubeeckxJanBP.toc)
+] (./TubeeckxJanBP.toc
+Overfull \hbox (7.8854pt too wide) in paragraph at lines 51--51
+ []|| [][][]\TU/Montserrat(1)/m/n/10.95 Aansturing slimme apparaten op basis va
+n de voorspelde stroom- 
+ []
+
+)
 \tf@toc=\write6
 \openout6 = `TubeeckxJanBP.toc'.
 
  [5
 
-] (./TubeeckxJanBP.lof
+] [6] (./TubeeckxJanBP.lof
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FiraMathRegular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -2070,8 +2076,10 @@ Overfull \hbox (12.83116pt too wide) in paragraph at lines 6--6
 e van zwaar vrachtvervoer in Vlaan- 
  []
 
+[7
 
-Overfull \hbox (6.08229pt too wide) in paragraph at lines 27--27
+]
+Overfull \hbox (6.08229pt too wide) in paragraph at lines 31--31
  [][] [][][]\TU/Montserrat(1)/m/n/10.95 Verwachte evolutie voor de elektrificat
 ie zwaar vrachtvervoer (Verdoodt, 
  []
@@ -2080,9 +2088,7 @@ ie zwaar vrachtvervoer (Verdoodt,
 \tf@lof=\write7
 \openout7 = `TubeeckxJanBP.lof'.
 
- [6
-
-] (./inleiding.tex
+ [8] (./inleiding.tex
 Hoofdstuk 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 25--26
@@ -2122,11 +2128,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
-[4]
-
-LaTeX Warning: Reference `ch:conclusie' on page 5 undefined on input line 85.
-
-) (./standvanzaken.tex [5]
+[4]) (./standvanzaken.tex [5]
 Hoofdstuk 2.
 
 Overfull \hbox (6.62613pt too wide) in paragraph at lines 18--19
@@ -2272,12 +2274,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
 
-
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 161--162
 
  []
 
-[15]
+
 Underfull \hbox (badness 10000) in paragraph at lines 167--168
 
  []
@@ -2303,45 +2305,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 177--178
 
  []
 
-) (./methodologie.tex
-Overfull \hbox (5.94357pt too wide) in paragraph at lines 179--4
+
+Overfull \hbox (5.94357pt too wide) in paragraph at lines 179--180
 \TU/Montserrat(1)/m/n/10.95 ook samen met verschillende nationale meteorologisc
 he diensten en biedt betrouw-
  []
 
-[17]
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+[17]) (./methodologie.tex [18]
 Hoofdstuk 3.
+
+Overfull \hbox (3.25986pt too wide) in paragraph at lines 29--30
+\TU/Montserrat(1)/m/n/10.95 Daarna wordt toegelicht hoe met behulp van AI en me
+er specifiek machine learning
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--37
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
-
- []
-
-) (./conclusie.tex [18
+) (./proofofconcept.tex [19
 
 ]
 Hoofdstuk 4.
@@ -2349,19 +2337,19 @@ File: ../graphics/TestSetup.jpeg Graphic file (type bmp)
 <../graphics/TestSetup.jpeg>
 File: ../graphics/RPi5.jpeg Graphic file (type bmp)
 <../graphics/RPi5.jpeg>
-[19
+[20
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
-[20]
+[21]
 File: ../graphics/Omvormer.jpeg Graphic file (type bmp)
 <../graphics/Omvormer.jpeg>
 File: ../graphics/Wifi_Stick.jpeg Graphic file (type bmp)
 <../graphics/Wifi_Stick.jpeg>
- [21]
+ [22]
 Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
@@ -2376,7 +2364,7 @@ File: ../graphics/Solar_Irradiance.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[22]
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
@@ -2386,66 +2374,143 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
-[23]
+[24]
 File: ../graphics/Weerdata.png Graphic file (type bmp)
 <../graphics/Weerdata.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
-
- []
-
-[24]
+ [25]
 File: ../graphics/correlatie.png Graphic file (type bmp)
 <../graphics/correlatie.png>
- [25]
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
-
- []
-
+ [26]
 File: ../graphics/Features_Lags.png Graphic file (type bmp)
 <../graphics/Features_Lags.png>
+ [27]
+File: ../graphics/TimeSeriesSplit.png Graphic file (type bmp)
+<../graphics/TimeSeriesSplit.png>
+ [28]
+File: ../graphics/Prediction.png Graphic file (type bmp)
+<../graphics/Prediction.png>
+ [29]
+File: ../graphics/PVPower_Formula.png Graphic file (type bmp)
+<../graphics/PVPower_Formula.png>
+File: ../graphics/Gstandard.png Graphic file (type bmp)
+<../graphics/Gstandard.png>
+File: ../graphics/Tstandard.png Graphic file (type bmp)
+<../graphics/Tstandard.png>
 
-Overfull \hbox (40.1441pt too wide) in paragraph at lines 106--107
-\TU/Montserrat(1)/m/n/10.95 zoek geopteerd voor de ontwikkeling van een mobiele
- app om de elektriciteitsconsumptie-
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+File: ../graphics/PPeak.png Graphic file (type bmp)
+<../graphics/PPeak.png>
+
+Overfull \hbox (0.28192pt too wide) in paragraph at lines 137--138
+[][] \TU/Montserrat(1)/m/n/10.95 verwijst naar het piekvermogen van de zonnepan
+elen. Dit piekvermogen(Wp)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
 
-[26]
-File: ../graphics/Iphone_Dag.png Graphic file (type bmp)
-<../graphics/Iphone_Dag.png>
- [27] [28]
+File: ../graphics/Temp_Coeff.png Graphic file (type bmp)
+<../graphics/Temp_Coeff.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+File: ../graphics/Cell_Temp.png Graphic file (type bmp)
+<../graphics/Cell_Temp.png>
+File: ../graphics/CellTemp_Formula.png Graphic file (type bmp)
+<../graphics/CellTemp_Formula.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+File: ../graphics/Iphone_dag_cons.png Graphic file (type bmp)
+<../graphics/Iphone_dag_cons.png>
+File: ../graphics/Iphone_dag_self.png Graphic file (type bmp)
+<../graphics/Iphone_dag_self.png>
+File: ../graphics/Iphone_week.png Graphic file (type bmp)
+<../graphics/Iphone_week.png>
+
+Overfull \hbox (7.77225pt too wide) in paragraph at lines 168--169
+\TU/Montserrat(1)/m/n/10.95 deze injectie ontvangt de gebruiker een beperkte ve
+rgoeding van zijn of haar stroom-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+File: ../graphics/Iphone_prediction.png Graphic file (type bmp)
+<../graphics/Iphone_prediction.png>
+File: ../graphics/Device_List.png Graphic file (type bmp)
+<../graphics/Device_List.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[32]
+Overfull \hbox (4.77322pt too wide) in paragraph at lines 186--186
+|[][]\TU/Montserrat(0)/b/n/12 Aansturing slimme apparaten op basis van de voors
+pelde stroom-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+[33]
+File: ../graphics/SmartPlug_Script.png Graphic file (type bmp)
+<../graphics/SmartPlug_Script.png>
+) (./conclusie.tex [34] [35]
 Hoofdstuk 5.
-) [29
+) [36
 
 ]
 B\ij lage A.
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--142
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
 
  []
 
 
-Overfull \hbox (0.57832pt too wide) in paragraph at lines 143--144
+Overfull \hbox (0.57832pt too wide) in paragraph at lines 142--143
 \TU/Montserrat(1)/m/n/10.95 teel bestaan, welke functies ze bieden en wat hun t
 ekortkomingen zijn. De []Vlaamse
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
-[30
+[37
 
 ] (../voorstel/TubeeckxJan2023RM.tex
 File: ../graphics/Elektrificatie_Personenvoertuigen.png Graphic file (type bmp)
@@ -2482,13 +2547,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
-[31] [32]
+[38] [39]
 Overfull \hbox (3.05157pt too wide) in paragraph at lines 71--72
 \TU/Montserrat(1)/m/n/10.95 hun elektriciteitsverbruik. Kunnen apps die het ele
 ktriciteitsverbuik monitoren slim-
  []
 
-[33]
+[40]
 Overfull \hbox (6.62613pt too wide) in paragraph at lines 76--77
 \TU/Montserrat(1)/m/n/10.95 Met een digitale elektriciteitsmeter kunnen gezinne
 n hun elektriciteitsverbruik mak-
@@ -2509,12 +2574,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
-[34]
+[41]
 Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
-[35] [36]
+[42] [43]
 Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
@@ -2534,7 +2599,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
-[37
+[44
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 106--107
@@ -2546,47 +2611,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 108--111
 
  []
 
-[38]) [39]
-Overfull \hbox (10.92058pt too wide) in paragraph at lines 162--162
+[45]) [46]
+Overfull \hbox (10.92058pt too wide) in paragraph at lines 161--161
 \TU/Montserrat(1)/m/n/10.95 demand response scheme for IoT enabled PVintegrated
  smart building. \TU/Montserrat(2)/m/it/10.95 Sustai-
  []
 
 
-Overfull \hbox (3.35928pt too wide) in paragraph at lines 162--162
+Overfull \hbox (3.35928pt too wide) in paragraph at lines 161--161
 [][][] [][] [][][][][][][][] [][] [][][][][] [][] [][][][] [] [] [] [] [] [][][
 ][] [] [][] [] [][][][][][][][][] [] [][][][][] [] [][][][][][][][][][][][][][]
 [] []
  []
 
-[40
+[47
 
 
-] [41] [42] [43] (./TubeeckxJanBP.aux)
+] [48] [49] [50] (./TubeeckxJanBP.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `TubeeckxJanBP.out' has not changed.
-(rerunfilecheck)             Checksum: 78F81A37E38A4F0098D786D2C5F9AD19;5577.
+(rerunfilecheck)             Checksum: EAC457CCEC3663CB545EE8C3B1DD00B2;5796.
 Package logreq Info: Writing requests to 'TubeeckxJanBP.run.xml'.
 \openout1 = `TubeeckxJanBP.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46303 strings out of 474773
- 928611 string characters out of 5757724
- 2049583 words of memory out of 5000000
- 67720 multiletter control sequences out of 15000+600000
+ 46602 strings out of 474773
+ 936868 string characters out of 5757724
+ 2049204 words of memory out of 5000000
+ 68016 multiletter control sequences out of 15000+600000
  561073 words of font info for 101 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,12n,140p,2300b,7232s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on TubeeckxJanBP.pdf (49 pages).
+Output written on TubeeckxJanBP.pdf (58 pages).
