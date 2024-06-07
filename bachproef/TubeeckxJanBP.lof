@@ -1,32 +1,33 @@
 \babel@toc {dutch}{}\relax 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Verwachte evolutie van het aantal elektrische personenvoertuigen in Vlaanderen \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{2}{figure.caption.5}%
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Verwachte evolutie van het aantal elektrische personenvoertuigen in Vlaanderen \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{1}{figure.caption.5}%
 \contentsline {figure}{\numberline {1.2}{\ignorespaces Verwachte evolutie van het aandeel warmtepomp en -net bij residentiële verwarming in Vlaanderen \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{2}{figure.caption.6}%
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Verwachte evolutie van zonnepanelen in Vlaanderen \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{3}{figure.caption.7}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Verwachte evolutie van zonnepanelen in Vlaanderen \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{2}{figure.caption.7}%
 \contentsline {figure}{\numberline {1.4}{\ignorespaces Verwachte evolutie van de elektrificatie van zwaar vrachtvervoer in Vlaanderen \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{3}{figure.caption.8}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Grafische voorstelling beslissingsboom.}}{9}{figure.caption.9}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Grafische voorstellingvan het Random Forest algoritme.}}{10}{figure.caption.10}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Grafische voorstelling Support Vector Machine.}}{11}{figure.caption.11}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Grafische voorstellingvan het LSTM algoritme.}}{13}{figure.caption.12}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Grafische voorstelling van de structuur van het XGBoost algoritme.}}{14}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Grafische voorstelling beslissingsboom \blx@tocontentsinit {0}\autocite {Alessandro2021}.}}{9}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Grafische voorstellingvan het Random Forest algoritme \blx@tocontentsinit {0}\autocite {Gunay2023}.}}{10}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Grafische voorstelling Support Vector Machine \blx@tocontentsinit {0}\autocite {Tutorialspoint2024}.}}{11}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Grafische voorstellingvan het LSTM algoritme \blx@tocontentsinit {0}\autocite {Thomas2023}.}}{13}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Grafische voorstelling van de structuur van het XGBoost algoritme \blx@tocontentsinit {0}\autocite {Tan2024}.}}{14}{figure.caption.13}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Testopstelling: Raspberry Pi 5 via een RS422 serieel naar USB kabel aangesloten op een digitale elektriciteitsmeter.}}{21}{figure.caption.14}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Omvormer van de zonnepanelen met een wifi-stick.}}{22}{figure.caption.15}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Script voor het opvragen van de zonnestralingsdata.}}{24}{figure.caption.16}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Script voor het opvragen van de weerdata.}}{25}{figure.caption.17}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Heatmap van correlaties tussen de verschillende kenmerken van de dataset.}}{26}{figure.caption.18}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Screenshot van de Python code voor het aanmaken van features en lags.}}{27}{figure.caption.19}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Grafische voorstelling van de TimeSerieSplit functie.}}{28}{figure.caption.20}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Screenshot van de Python code voor de voorspelling van de zonnestraling van de volgende dag.}}{29}{figure.caption.21}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Overzicht elektricteitsverbruik en -productie per dag en per week.}}{31}{figure.caption.24}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Voorspelling van de stroomproductie en overzicht van de ingeschakelde apparaten.}}{33}{figure.caption.25}%
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Screenshot van de Python code om de slimme stekker aan te sturen op basis van de voorspelde stroomproductie.}}{34}{figure.caption.26}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Testopstelling: Raspberry Pi 5 via een RS422 serieel naar USB kabel aangesloten op een digitale elektriciteitsmeter.}}{22}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Omvormer van de zonnepanelen met een wifi-stick.}}{23}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Script voor het opvragen van de zonnestralingsdata.}}{25}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Script voor het opvragen van de weerdata.}}{26}{figure.caption.17}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Heatmap van correlaties tussen de verschillende kenmerken van de dataset.}}{27}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Screenshot van de Python code voor het aanmaken van features en lags.}}{28}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Grafische voorstelling van de TimeSerieSplit functie.}}{29}{figure.caption.20}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Screenshot van de Python code voor de voorspelling van de zonnestraling van de volgende dag.}}{30}{figure.caption.21}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Vergelijking van de effectieve stroomproductie (blauw) met de voorspelde stroomproductie (groen).}}{32}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Overzicht elektricteitsverbruik en -productie per dag en per week.}}{33}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Voorspelling van de stroomproductie en overzicht van de ingeschakelde apparaten.}}{34}{figure.caption.26}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Screenshot van de Python code om de slimme stekker aan te sturen op basis van de voorspelde stroomproductie.}}{36}{figure.caption.27}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Verwachte evolutie van het aantal elektrische personenvoertuigen in Vlaanderen \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{38}{figure.caption.27}%
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Verwachte evolutie aandeel warmtepomp en -net bij residentiële verwarming \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{39}{figure.caption.28}%
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Verwachte evolutie PV (MWe) \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{39}{figure.caption.29}%
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Verwachte evolutie voor de elektrificatie zwaar vrachtvervoer \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{40}{figure.caption.30}%
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Verwachte evolutie van het aantal elektrische personenvoertuigen in Vlaanderen \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{41}{figure.caption.28}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Verwachte evolutie aandeel warmtepomp en -net bij residentiële verwarming \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{42}{figure.caption.29}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Verwachte evolutie PV (MWe) \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{42}{figure.caption.30}%
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Verwachte evolutie voor de elektrificatie zwaar vrachtvervoer \blx@tocontentsinit {0}\autocite {Verdoodt2022}.}}{43}{figure.caption.31}%
 \contentsfinish 

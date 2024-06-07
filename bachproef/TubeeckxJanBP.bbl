@@ -72,6 +72,55 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0959652618325551?via=ihub
       \endverb
     \endentry
+    \entry{Alessandro2021}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b70b89878e429ed3a2fcac3a21797f2a}{%
+           family={Alessandro},
+           familyi={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=87f8a6ab85c9ced3702b4ea641ad4bb5}{%
+           family={Medium},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{b70b89878e429ed3a2fcac3a21797f2a}
+      \strng{fullhash}{b70b89878e429ed3a2fcac3a21797f2a}
+      \strng{bibnamehash}{b70b89878e429ed3a2fcac3a21797f2a}
+      \strng{authorbibnamehash}{b70b89878e429ed3a2fcac3a21797f2a}
+      \strng{authornamehash}{b70b89878e429ed3a2fcac3a21797f2a}
+      \strng{authorfullhash}{b70b89878e429ed3a2fcac3a21797f2a}
+      \strng{editorbibnamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editornamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editorfullhash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{month}{8}
+      \field{title}{Decision trees in Python}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/codex/decision-trees-in-python-98ca587f4329
+      \endverb
+      \verb{url}
+      \verb https://medium.com/codex/decision-trees-in-python-98ca587f4329
+      \endverb
+    \endentry
     \entry{Allardice}{online}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=6bfd8bffdf51fa600e309feaa44f4d7d}{%
@@ -597,6 +646,58 @@
       \endverb
       \verb{url}
       \verb https://frontendmasters.com/blog/choosing-mobile-platform/
+      \endverb
+    \endentry
+    \entry{Gunay2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cdf209aa36c4dce97c0781599a92b587}{%
+           family={Gunay},
+           familyi={G\bibinitperiod},
+           given={Deniz},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=87f8a6ab85c9ced3702b4ea641ad4bb5}{%
+           family={Medium},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{cdf209aa36c4dce97c0781599a92b587}
+      \strng{fullhash}{cdf209aa36c4dce97c0781599a92b587}
+      \strng{bibnamehash}{cdf209aa36c4dce97c0781599a92b587}
+      \strng{authorbibnamehash}{cdf209aa36c4dce97c0781599a92b587}
+      \strng{authornamehash}{cdf209aa36c4dce97c0781599a92b587}
+      \strng{authorfullhash}{cdf209aa36c4dce97c0781599a92b587}
+      \strng{editorbibnamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editornamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editorfullhash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{month}{9}
+      \field{title}{Random forest}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/@denizgunay/random-forest-af5bde5d7e1e
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@denizgunay/random-forest-af5bde5d7e1e
       \endverb
     \endentry
     \entry{Guo2022}{article}{}
@@ -1468,6 +1569,50 @@
       \verb https://www.sciencedirect.com/science/article/pii/S1877050919310439
       \endverb
     \endentry
+    \entry{Tan2024}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=31a7cb9449e51f7747865fd1dc25a4be}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Tran\bibnamedelima Duy},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2d9ed4bb8434c59abb5259abd7f1197}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Divesh\bibnamedelima Ranjan},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68b7cf623461bd8876c6c651ad65a4e7}{%
+           family={Chimoye},
+           familyi={C\bibinitperiod},
+           given={Weeraya},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d2ce9069442f09843665e013369a4c92}
+      \strng{fullhash}{1cdf43553d38ad9d5bfdde42753461ec}
+      \strng{bibnamehash}{1cdf43553d38ad9d5bfdde42753461ec}
+      \strng{authorbibnamehash}{1cdf43553d38ad9d5bfdde42753461ec}
+      \strng{authornamehash}{d2ce9069442f09843665e013369a4c92}
+      \strng{authorfullhash}{1cdf43553d38ad9d5bfdde42753461ec}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{journaltitle}{Earth Science Informatics}
+      \field{month}{3}
+      \field{title}{An eXtreme Gradient Boosting prediction of uplift capacity factors for 3D rectangular anchors in natural clays}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1007/s12145-024-01269-8
+      \endverb
+    \endentry
     \entry{Tercha2024}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=72f908e0d5f7976d5197fc23ff5ab682}{%
@@ -1521,6 +1666,107 @@
       \endverb
       \verb{url}
       \verb https://www.mdpi.com/1996-1073/17/5/1124
+      \endverb
+    \endentry
+    \entry{Thomas2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4ac29919936e3452d4f6991732406d30}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Ebin\bibnamedelima Babu},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=e884c507c5198a4578a84498f7a323e2}{%
+           family={LinkedIn},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {LinkedIn}%
+      }
+      \strng{namehash}{4ac29919936e3452d4f6991732406d30}
+      \strng{fullhash}{4ac29919936e3452d4f6991732406d30}
+      \strng{bibnamehash}{4ac29919936e3452d4f6991732406d30}
+      \strng{authorbibnamehash}{4ac29919936e3452d4f6991732406d30}
+      \strng{authornamehash}{4ac29919936e3452d4f6991732406d30}
+      \strng{authorfullhash}{4ac29919936e3452d4f6991732406d30}
+      \strng{editorbibnamehash}{e884c507c5198a4578a84498f7a323e2}
+      \strng{editornamehash}{e884c507c5198a4578a84498f7a323e2}
+      \strng{editorfullhash}{e884c507c5198a4578a84498f7a323e2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{month}{7}
+      \field{title}{Understanding LSTM: An In-depth Look at its Architecture, Functioning, and Pros & Cons}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.linkedin.com/pulse/understanding-lstm-in-depth-look-its-architecture-pros-babu-thomas
+      \endverb
+      \verb{url}
+      \verb https://www.linkedin.com/pulse/understanding-lstm-in-depth-look-its-architecture-pros-babu-thomas
+      \endverb
+    \endentry
+    \entry{Tutorialspoint2024}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=da653faa9f00528be9a57f3474f0e437}{%
+           family={Tutorialspoint},
+           familyi={T\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=da653faa9f00528be9a57f3474f0e437}{%
+           family={Tutorialspoint},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Tutorialspoint}%
+      }
+      \strng{namehash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{fullhash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{bibnamehash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{authorbibnamehash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{authornamehash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{authorfullhash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{editorbibnamehash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{editornamehash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{editorfullhash}{da653faa9f00528be9a57f3474f0e437}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{5}
+      \field{title}{Support Vector Machine (SVM)}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tutorialspoint.com/machine_learning_with_python/classification_algorithms_support_vector_machine.htm
+      \endverb
+      \verb{url}
+      \verb https://www.tutorialspoint.com/machine_learning_with_python/classification_algorithms_support_vector_machine.htm
       \endverb
     \endentry
     \entry{Tziolis2024}{article}{}
@@ -2025,6 +2271,55 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0959652618325551?via=ihub
       \endverb
     \endentry
+    \entry{Alessandro2021}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b70b89878e429ed3a2fcac3a21797f2a}{%
+           family={Alessandro},
+           familyi={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=87f8a6ab85c9ced3702b4ea641ad4bb5}{%
+           family={Medium},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{b70b89878e429ed3a2fcac3a21797f2a}
+      \strng{fullhash}{b70b89878e429ed3a2fcac3a21797f2a}
+      \strng{bibnamehash}{b70b89878e429ed3a2fcac3a21797f2a}
+      \strng{authorbibnamehash}{b70b89878e429ed3a2fcac3a21797f2a}
+      \strng{authornamehash}{b70b89878e429ed3a2fcac3a21797f2a}
+      \strng{authorfullhash}{b70b89878e429ed3a2fcac3a21797f2a}
+      \strng{editorbibnamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editornamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editorfullhash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{month}{8}
+      \field{title}{Decision trees in Python}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/codex/decision-trees-in-python-98ca587f4329
+      \endverb
+      \verb{url}
+      \verb https://medium.com/codex/decision-trees-in-python-98ca587f4329
+      \endverb
+    \endentry
     \entry{Allardice}{online}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=6bfd8bffdf51fa600e309feaa44f4d7d}{%
@@ -2550,6 +2845,58 @@
       \endverb
       \verb{url}
       \verb https://frontendmasters.com/blog/choosing-mobile-platform/
+      \endverb
+    \endentry
+    \entry{Gunay2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cdf209aa36c4dce97c0781599a92b587}{%
+           family={Gunay},
+           familyi={G\bibinitperiod},
+           given={Deniz},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=87f8a6ab85c9ced3702b4ea641ad4bb5}{%
+           family={Medium},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{cdf209aa36c4dce97c0781599a92b587}
+      \strng{fullhash}{cdf209aa36c4dce97c0781599a92b587}
+      \strng{bibnamehash}{cdf209aa36c4dce97c0781599a92b587}
+      \strng{authorbibnamehash}{cdf209aa36c4dce97c0781599a92b587}
+      \strng{authornamehash}{cdf209aa36c4dce97c0781599a92b587}
+      \strng{authorfullhash}{cdf209aa36c4dce97c0781599a92b587}
+      \strng{editorbibnamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editornamehash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \strng{editorfullhash}{87f8a6ab85c9ced3702b4ea641ad4bb5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{month}{9}
+      \field{title}{Random forest}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/@denizgunay/random-forest-af5bde5d7e1e
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@denizgunay/random-forest-af5bde5d7e1e
       \endverb
     \endentry
     \entry{Guo2022}{article}{}
@@ -3421,6 +3768,50 @@
       \verb https://www.sciencedirect.com/science/article/pii/S1877050919310439
       \endverb
     \endentry
+    \entry{Tan2024}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=31a7cb9449e51f7747865fd1dc25a4be}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Tran\bibnamedelima Duy},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2d9ed4bb8434c59abb5259abd7f1197}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Divesh\bibnamedelima Ranjan},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68b7cf623461bd8876c6c651ad65a4e7}{%
+           family={Chimoye},
+           familyi={C\bibinitperiod},
+           given={Weeraya},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d2ce9069442f09843665e013369a4c92}
+      \strng{fullhash}{1cdf43553d38ad9d5bfdde42753461ec}
+      \strng{bibnamehash}{1cdf43553d38ad9d5bfdde42753461ec}
+      \strng{authorbibnamehash}{1cdf43553d38ad9d5bfdde42753461ec}
+      \strng{authornamehash}{d2ce9069442f09843665e013369a4c92}
+      \strng{authorfullhash}{1cdf43553d38ad9d5bfdde42753461ec}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{journaltitle}{Earth Science Informatics}
+      \field{month}{3}
+      \field{title}{An eXtreme Gradient Boosting prediction of uplift capacity factors for 3D rectangular anchors in natural clays}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb https://doi.org/10.1007/s12145-024-01269-8
+      \endverb
+    \endentry
     \entry{Tercha2024}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=72f908e0d5f7976d5197fc23ff5ab682}{%
@@ -3474,6 +3865,107 @@
       \endverb
       \verb{url}
       \verb https://www.mdpi.com/1996-1073/17/5/1124
+      \endverb
+    \endentry
+    \entry{Thomas2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4ac29919936e3452d4f6991732406d30}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Ebin\bibnamedelima Babu},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=e884c507c5198a4578a84498f7a323e2}{%
+           family={LinkedIn},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {LinkedIn}%
+      }
+      \strng{namehash}{4ac29919936e3452d4f6991732406d30}
+      \strng{fullhash}{4ac29919936e3452d4f6991732406d30}
+      \strng{bibnamehash}{4ac29919936e3452d4f6991732406d30}
+      \strng{authorbibnamehash}{4ac29919936e3452d4f6991732406d30}
+      \strng{authornamehash}{4ac29919936e3452d4f6991732406d30}
+      \strng{authorfullhash}{4ac29919936e3452d4f6991732406d30}
+      \strng{editorbibnamehash}{e884c507c5198a4578a84498f7a323e2}
+      \strng{editornamehash}{e884c507c5198a4578a84498f7a323e2}
+      \strng{editorfullhash}{e884c507c5198a4578a84498f7a323e2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{month}{7}
+      \field{title}{Understanding LSTM: An In-depth Look at its Architecture, Functioning, and Pros & Cons}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.linkedin.com/pulse/understanding-lstm-in-depth-look-its-architecture-pros-babu-thomas
+      \endverb
+      \verb{url}
+      \verb https://www.linkedin.com/pulse/understanding-lstm-in-depth-look-its-architecture-pros-babu-thomas
+      \endverb
+    \endentry
+    \entry{Tutorialspoint2024}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=da653faa9f00528be9a57f3474f0e437}{%
+           family={Tutorialspoint},
+           familyi={T\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=da653faa9f00528be9a57f3474f0e437}{%
+           family={Tutorialspoint},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{organization}{1}{%
+        {Tutorialspoint}%
+      }
+      \strng{namehash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{fullhash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{bibnamehash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{authorbibnamehash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{authornamehash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{authorfullhash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{editorbibnamehash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{editornamehash}{da653faa9f00528be9a57f3474f0e437}
+      \strng{editorfullhash}{da653faa9f00528be9a57f3474f0e437}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{5}
+      \field{title}{Support Vector Machine (SVM)}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tutorialspoint.com/machine_learning_with_python/classification_algorithms_support_vector_machine.htm
+      \endverb
+      \verb{url}
+      \verb https://www.tutorialspoint.com/machine_learning_with_python/classification_algorithms_support_vector_machine.htm
       \endverb
     \endentry
     \entry{Tziolis2024}{article}{}

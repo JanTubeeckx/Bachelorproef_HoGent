@@ -24,32 +24,33 @@
 
 Anderhalf miljoen elektrische wagens, massaal veel warmtepompen en zonnepanelen gecombineerd met een toenemende elektrificatie van de industrie en het vrachtvervoer tegen 2030. Dat is de verwachting van de Vlaamse distributienetbeheerder Fluvius \autocite{Verdoodt2022}. De energietransitie die vanuit Europa, België en Vlaanderen wordt aangestuurd, vormt een enorme uitdaging voor de distributienetten voor elektriciteit in Vlaanderen. \\
 
-\begin{figure}
+\begin{figure}[h!]
     \centering\includegraphics[scale=0.4]{Elektrificatie_personenvoertuigen}
     \caption{\label{fig:Aantal_el_personenvoertuigen}Verwachte evolutie van het aantal
         elektrische personenvoertuigen in Vlaanderen \autocite{Verdoodt2022}.}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[h!]
     \centering\includegraphics[scale=0.4]{Evolutie_Warmtepomp}
     \caption{\label{fig:Evolutie_Warmtepompen}Verwachte evolutie van het aandeel warmtepomp en -net bij
         residentiële verwarming in Vlaanderen \autocite{Verdoodt2022}.}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[h!]
     \centering\includegraphics[scale=0.4]{Evolutie_PV}
-    \caption{\label{fig:Evolutie_PV}Verwachte evolutie van zonnepanelen in Vlaanderen \autocite{Verdoodt2022}.}
+    \caption{\label{fig:Evolutie_zonnepanelen}Verwachte evolutie van zonnepanelen in Vlaanderen \autocite{Verdoodt2022}.}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[h!]
     \centering\includegraphics[scale=0.4]{Elektrificatie_Vrachtvervoer}
     \caption{\label{fig:El_Vrachtvervoer}Verwachte evolutie van de elektrificatie van zwaar
         vrachtvervoer in Vlaanderen \autocite{Verdoodt2022}.}
 \end{figure}
 
+\newpage
 Om al te hoge investeringen in de distributienetten te vermijden, wordt door Fluvius ingezet op maatregelen die de belasting van het elektriciteitsnet kunnen verminderen en spreiden. Een van die maatregelen is de invoering en verplichting van de digitale elektriciteitsmeter. Tegen juli 2029 moeten alle Belgische huishoudens een digitale meter hebben. Deze digitale meters kunnen met behulp van apps 'slimmer' gemaakt worden. Zo kunnen gezinnen hun elektriciteitsverbruik in detail opvolgen en bijsturen wat hen meteen ook een besparing zal opleveren. Deze apps vereisen echter een actieve opvolging van de gebruiker. Die moet zelf toestellen in- of uitschakelen om het elektriciteitsverbruik bij te sturen. Uit onderzoek is echter gebleken dat deze actieve bijsturing na verloop van tijd vermindert \autocite{Wemyss2019}. Een enquête van de Vlaamse Regulator van de Elektriciteits- en Gasmarkt \textcite{VREG2021} waarin 1.000 Vlaamse gezinnen en 1.500 bedrijven bevraagd werden over hun ervaring en gedrag op de energiemarkt toont zelfs aan dat van de 60\% van de gezinnen met een digitale meter, slechts 8\% hun energieverbruik effectief bijstuurt. Door de invoering van het capaciteitstarief, een andere maatregel waarmee de VREG het elektriciteitsnet hoopt te ontlasten, zal de bijsturing en vooral spreiding van het elektriciteitsverbruik evenwel nog belangrijker worden voor gezinnen. Sinds 1 januari 2023 wordt nameijk een deel van de nettarieven die een gezin via haar elektriciteitsfactuur betaalt ook berekend op het maximale elektriciteitsverbruik. Er wordt dus voortaan ook gekeken naar de maximale capaciteit die de distributienetbeheerders ter beschikking moeten stellen. Bedoeling van het capaciteitstarief is dat gezinnen hun stroomverbruik beter gaan spreiden. Als iedereen op hetzelfde moment veel stroom verbruikt, kan het net overbelast raken. Het gevolg is dat netbedrijven dan extra moeten investeren in zwaardere elektriciteitskabels om die hogere verbruikspieken op te vangen \autocite{Selleslagh2022}. \\
 
-Daarom wordt meer en meer de vraag gesteld hoe nieuwe technologieën en technieken een oplossing kunnen bieden om gezinnen te helpen bij het spreiden van hun elektriciteitsverbruik. Kunnen apps die het elektriciteitsverbuik monitoren slimmer gemaakt worden zodat ze geen tussenkomst van een gebruiker meer behoeven? Kan bijvoorbeeld artificiële intelligentie (AI) daarbij een oplossing bieden? Om dit na te gaan, zal tijdens dit onderzoek als proof of concept een app ontwikkeld worden die het elektriciteitsverbruik van gezinnen automatisch zal sturen met behulp van artificiële intelligentie.
+Daarom wordt meer en meer de vraag gesteld hoe nieuwe technologieën en technieken een oplossing kunnen bieden om gezinnen te helpen bij het spreiden van hun elektriciteitsverbruik. Kunnen apps die het elektriciteitsverbuik monitoren slimmer gemaakt worden zodat ze geen tussenkomst van een gebruiker meer behoeven? Kan bijvoorbeeld artificiële intelligentie (AI) daarbij een oplossing bieden? Om dit na te gaan, zal tijdens dit onderzoek als proof of concept een app ontwikkeld worden die het elektriciteitsverbruik van gezinnen automatisch zal bijsturen met behulp van artificiële intelligentie.
 
 \section{\IfLanguageName{dutch}{Onderzoeksvraag}{Research question}}%
 \label{sec:onderzoeksvraag}
@@ -65,7 +66,7 @@ Kan een app die de stroomprodcutie van zonnepanelen voorspelt door toepassing va
 
 %Wat is het beoogde resultaat van je bachelorproef? Wat zijn de criteria voor succes? Beschrijf die zo concreet mogelijk. Gaat het bv.\ om een proof-of-concept, een prototype, een verslag met aanbevelingen, een vergelijkende studie, enz.
 
-Om na te gaan of het elektriciteitsverbruik van een gezin automatisch kan gestuurd en gespreid worden, zal een app ontwikkeld worden die in de eerste plaats het elektriciteitsverbruik en de zelf geproduceerde stroom van zonnepanelen inzichtelijk maakt. Om het elektriciteitsverbruik en de geproduceerde stroom zo goed mogelijk op elkaar af te stemmen zal met behulp van machine learning de stroomproductie van de volgende dag voorspeld worden. Hiervoor zal gebruik gemaakt worden van historische zonnestralingsgegevens verkregen via de CAMS Radiation Service (CRS) van de Copernicus Atmosphere Monitoring Service (CAMS). Deze voorspelling zal verder verfijnd worden met de weersvoorspelling van de Open-Meteo weer API. De app zal vervolgens op basis van de gemaakte voorspellingen twee slimme stekkers gaan aansturen, zodat het elektriciteitsverbruik zo nauwkeurig mogelijk samenvalt met de voorspelde elektriciteitsproductie. 
+Om na te gaan of het elektriciteitsverbruik van een gezin automatisch kan gestuurd en gespreid worden, zal een app ontwikkeld worden die in de eerste plaats het elektriciteitsverbruik en de zelf geproduceerde stroom van zonnepanelen inzichtelijk maakt. Om het elektriciteitsverbruik en de geproduceerde stroom zo goed mogelijk op elkaar af te stemmen zal met behulp van machine learning de stroomproductie van de volgende dag voorspeld worden. Hiervoor zal gebruik gemaakt worden van historische zonnestralingsgegevens verkregen via de CAMS Radiation Service (CRS) van de Copernicus Atmosphere Monitoring Service (CAMS). Deze voorspelling zal verder verfijnd worden met de weersvoorspelling van de Open-Meteo weer API. De app zal vervolgens op basis van de gemaakte voorspellingen een slimme stekker gaan aansturen, zodat het elektriciteitsverbruik zo nauwkeurig mogelijk samenvalt met de voorspelde elektriciteitsproductie. 
 
 \section{\IfLanguageName{dutch}{Opzet van deze bachelorproef}{Structure of this bachelor thesis}}%
 \label{sec:opzet-bachelorproef}
@@ -76,12 +77,10 @@ Om na te gaan of het elektriciteitsverbruik van een gezin automatisch kan gestuu
 
 De rest van deze bachelorproef is als volgt opgebouwd: \\
 
-In Hoofdstuk~\ref{ch:stand-van-zaken} wordt vooreerst een overzicht gegeven van de apps die er momenteel bestaan om een digitale elektriciteitsmeter slimmer te maken. Er zal kort worden ingegaan op de functionaliteiten die ze bieden om het elektricteitsverbruik van gezinnen bij te sturen en wat hun tekortkomingen zijn. Vervolgens zal een vergelijking gemaakt worden van de verschillende machine learning modellen die kunnen gebruikt worden om voorspellingen te maken. Er wordt tevens een overzicht gegeven van de onderzoek die reeds verricht zijn naar de voorspelling van stroomproductie van zonnepanelen met behulp van machine learning en welke data hiervoor gebruikt kan worden. Als afsluiter wordt nog kort ingegaan op de aansturing van simme toestellen.
+In Hoofdstuk~\ref{ch:stand-van-zaken} wordt vooreerst een overzicht gegeven van de apps die er momenteel bestaan om een digitale elektriciteitsmeter slimmer te maken. Er zal kort worden ingegaan op de functionaliteiten die ze bieden om het elektricteitsverbruik van gezinnen bij te sturen en wat hun tekortkomingen zijn. Vervolgens zal een vergelijking gemaakt worden van de verschillende machine learning modellen die kunnen gebruikt worden om voorspellingen te maken. Er wordt tevens een overzicht gegeven van de onderzoeken die reeds verricht zijn naar de voorspelling van stroomproductie van zonnepanelen met behulp van machine learning en welke data hiervoor gebruikt kan worden. Als afsluiter wordt nog kort ingegaan op de aansturing van slimme toestellen.
 
 In Hoofdstuk~\ref{ch:methodologie} wordt de methodologie van deze bachelorproef toegelicht.
 
 In Hoofdstuk~\ref{ch:proofofconcept} wordt de ontwikkeling van een app als proof of concept besproken. Er zal worden toegelicht hoe de stroomproductie van zonnepanelen kan voorspeld worden en hoe deze voorspellingen kunnen gebruikt worden om slimmer stekkers en toestellen aan te sturen. Met de ontwikkeling van deze app zal de onderzoeksvraag proberen beantwoord worden.
 
-% TODO: Vul hier aan voor je eigen hoofstukken, één of twee zinnen per hoofdstuk
-
-In Hoofdstuk~\ref{ch:conclusie}, tenslotte, wordt de conclusie gegeven en een antwoord geformuleerd op de onderzoeksvragen. Daarbij wordt ook een aanzet gegeven voor toekomstig onderzoek binnen dit domein.
+In Hoofdstuk~\ref{ch:conclusie} tenslotte, wordt de conclusie gegeven en een antwoord geformuleerd op de onderzoeksvragen. Daarbij wordt ook een aanzet gegeven voor toekomstig onderzoek binnen dit domein.
